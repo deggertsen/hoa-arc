@@ -1,7 +1,70 @@
 # Reserve at Minneola
-## ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
+# ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
+## Revised Draft
 
-*Adopted: September 17, 2020*
+**Adopted:** September 17, 2020  
+**Revision Date:** [To be determined]
+
+---
+
+## TABLE OF CONTENTS
+
+1. [Introduction](#introduction)
+2. [Definitions](#definitions)
+3. [Alteration Application Process](#alteration-application-process)
+4. [Access to Common Areas](#access-to-common-areas)
+5. [Specific Architectural Standards](#specific-architectural-standards)
+   - [Air Conditioners](#air-conditioners)
+   - [Antenna and Satellite Dishes](#antenna-and-satellite-dishes)
+   - [Security/Video Cameras](#securityvideo-cameras)
+   - [Canopies](#canopies)
+   - [Carriage Lights](#carriage-lights)
+   - [Decks and Concrete Patios](#decks-and-concrete-patios)
+   - [Dog Houses, Kennels and Runs, Invisible Fences](#dog-houses-kennels-and-runs-invisible-fences)
+   - [Doors](#doors)
+   - [Driveways and Entrances to Garage](#driveways-and-entrances-to-garage)
+   - [Elevations and Reconstruction](#elevations-and-reconstruction)
+   - [Encroachment and Plantings on Common Grounds](#encroachment-and-plantings-on-common-grounds)
+   - [Exterior Painting and Approved Color Schemes](#exterior-painting-and-approved-color-schemes)
+   - [Fencing](#fencing)
+   - [Flags](#flags)
+   - [Front Entry of Home](#front-entry-of-home)
+   - [Front Roof Changes](#front-roof-changes)
+   - [Garage](#garage)
+   - [Garbage and Trash—Screening of Containers and HVAC Equipment](#garbage-and-trash-screening-of-containers-and-hvac-equipment)
+   - [Gas Tanks (Propane and/or Natural)](#gas-tanks-propane-andor-natural)
+   - [Generators](#generators)
+   - [Gutters](#gutters)
+   - [Holiday Decorations](#holiday-decorations)
+   - [House Numbers](#house-numbers)
+   - [Irrigation](#irrigation)
+   - [Landscaping](#landscaping)
+   - [Lawn Furnishings](#lawn-furnishings)
+   - [Lawns](#lawns)
+   - [Lighting](#lighting)
+   - [Lightning Rods and Brushes](#lightning-rods-and-brushes)
+   - [Outbuildings, Sheds and Storage Containers](#outbuildings-sheds-and-storage-containers)
+   - [Play Structures, Recreational Equipment and Toys](#play-structures-recreational-equipment-and-toys)
+   - [Rain Barrels & Rain Chains](#rain-barrels--rain-chains)
+   - [Reflectors](#reflectors)
+   - [Roofs](#roofs)
+   - [Roof Extensions/Covering](#roof-extensionscovering)
+   - [Screen Enclosures Patios and Sunrooms](#screen-enclosures-patios-and-sunrooms)
+   - [Screen and Storm Doors](#screen-and-storm-doors)
+   - [Sidewalks and Stepping Stones](#sidewalks-and-stepping-stones)
+   - [Signage](#signage)
+   - [Skylights](#skylights)
+   - [Solar Panels and Solar Collectors](#solar-panels-and-solar-collectors)
+   - [Storm/Hurricane Shutters](#stormhurricane-shutters)
+   - [Swimming Pools and Spas](#swimming-pools-and-spas)
+   - [Temporary Structures](#temporary-structures)
+   - [Water Softeners](#water-softeners)
+   - [Windows - Replacement, Tinting and Treatments](#windows-replacement-tinting-and-treatments)
+6. [Exterior Maintenance of Structures and Grounds](#exterior-maintenance-of-structures-and-grounds)
+
+---
+
+## Introduction
 
 This community was developed with the intent that homes harmonize with each other and present a pleasing and consistent style. Except as required by the governing documents, this style is not the result of a formal Architectural code but rather the result of the vision of the original developer.
 
@@ -19,7 +82,25 @@ Any matters requiring ARC review and approval shall be approved or denied by the
 
 The ARC has the right to modify, revise, add, delete or make any changes to these guidelines by joint resolution with the Board of Directors.
 
-## Alteration Application
+---
+
+## Definitions
+
+**Common Areas:** All property within the Reserve at Minneola community that is owned and maintained by the Association for the common use and enjoyment of all residents.
+
+**Distinctive Flora:** Native Florida plants that are protected by state or local ordinances, including but not limited to native palms, flowering shrubs, and specimen trees as identified by Lake County/City of Minneola ordinances.
+
+**Like New Condition:** Maintenance standard requiring structures to be clean, free of mold/mildew, structurally sound, properly painted/stained, and functioning as originally intended. Includes:
+- Fences: vertical, stable, clean, no warped/bent panels
+- Play structures: secure anchoring, fresh paint/stain, intact canvas/fabric
+- Painted surfaces: no peeling, fading, or discoloration
+- Screening: taut, no tears or holes
+
+**Substantially Similar:** Materials, colors, or designs that match the original construction in appearance, quality, and function, even if not identical in composition.
+
+---
+
+## Alteration Application Process
 
 1. An ARC review application may be obtained from the community manager.
 2. A separate alteration application should be submitted for each exterior modification.
@@ -31,6 +112,8 @@ When applicable, each application must include:
 2. Vendor specifications or proposal showing the nature, kind, shape, height, materials and color to be used and the location of the proposed alteration.
 3. Color samples where applicable.
 4. Color picture or vendor brochure showing what the item will look like when completed.
+
+---
 
 ## Access to Common Areas
 
@@ -45,15 +128,19 @@ When applicable, each application must include:
 5. Owners are responsible for all cleanup of any improvement project. All debris, sod, soil, construction trash etc. shall be removed from the lot and the community within thirty (30) days of the completion of the project.
 
 6. Homeowners are responsible for the acts of their employees, subcontractors and any other persons or parties involved in construction or alteration of the home site. The responsibilities include but are not limited to the following:
-   - a. Ensuring that the construction site, community properties and roadways are kept clean and free of all debris and waste materials, and that stockpiles of unused materials are kept in a neat and orderly fashion.
-   - b. Prohibiting the consumption of alcoholic beverages, illegal drugs or other intoxicants that could hamper the safety or well-being of others on the site.
+   a. Ensuring that the construction site, community properties and roadways are kept clean and free of all debris and waste materials, and that stockpiles of unused materials are kept in a neat and orderly fashion.
+   b. Prohibiting the consumption of alcoholic beverages, illegal drugs or other intoxicants that could hamper the safety or well-being of others on the site.
 
-## Air Conditioners
+---
+
+## Specific Architectural Standards
+
+### Air Conditioners
 
 1. No air conditioners shall be mounted through a window, door or hung on an exterior wall.
 2. Replacement of air conditioner components shall be in their original location unless approved by the ARC.
 
-## Antenna and Satellite Dishes
+### Antenna and Satellite Dishes
 
 1. This section shall apply to all outside antennas, antenna poles, antenna masts, electronic devices, satellite dish antennas or antenna towers. All such equipment shall be subject to the approval of the ARC. All antennas not covered by the Federal Communications Commission (FCC) rules are prohibited.
 
@@ -77,7 +164,7 @@ When applicable, each application must include:
 
 11. If antennae or satellite dishes become detached, Homeowners shall remove or repair such detachment within seventy-two (72) hours of the detachment. If the detachment threatens safety, the Association may remove the antenna or satellite dish at the expense of the Owner, without prior notice.
 
-## Security/Video Cameras
+### Security/Video Cameras
 
 1. Cameras may be installed only after written approval is obtained from the Association's ARC. This obligation by the Homeowner shall include the obligation to maintain, repair and replace any and all portions of the Home or Lot that are damaged, either directly or indirectly, by the installation, operation, maintenance, use and removal of any camera or cameras.
 
@@ -93,15 +180,15 @@ When applicable, each application must include:
 
 7. The Association's approval of a Homeowner's request to install cameras is not a guarantee of safety or protection of any person or property of any kind. All people on the Properties, including but not limited to, owners, tenants, guests, invitees, employees, management personnel, access control personnel, vendors and contractors, are strongly encouraged to provide for their own security measures and take proper safety precautions, as they each deem appropriate and necessary in their own discretion and judgment. Each person shall be responsible for providing his or her own insurance coverage for their health, safety and property.
 
-## Canopies
+### Canopies
 
 1. The installation of a canopy (fabric gazebo) is not permitted. Exception will be for private parties and such fixtures or decorations may be installed 24 hours prior to and must be removed within 24 hours of the party. No other type of sun shade, tent or canopy cover will be approved.
 
-## Carriage lights
+### Carriage Lights
 
 1. Carriage light sizes and locations must harmonize with the front elevation of the house. A picture with color and dimensions shall be attached to the Modification Request. Lights shall be black, brown, white or natural metal in color.
 
-## Decks and Concrete Patios
+### Decks and Concrete Patios
 
 1. All decks and patios shall be in the rear yard of the lot and not visible from the street in front of the house.
 
@@ -117,7 +204,7 @@ When applicable, each application must include:
 
 7. Deck rails cannot exceed forty-eight inches (48") in height from decking and shall match the material and color of the decking or trim of the home or be ornamental aluminum to match the color of the house window frames. Deck rails may not extend past the deck or patio and must have a continuous top rail that is free of decorative finials to serve as a handrail.
 
-## Dog Houses, Kennels and Runs, Invisible Fences
+### Dog Houses, Kennels and Runs, Invisible Fences
 
 1. All dog houses will be located in a fenced rear yard and shall be subject to the side and rear setbacks of the house.
 
@@ -129,15 +216,15 @@ When applicable, each application must include:
 
 5. Dog runs (partial fencing of an area) and kennels are not permitted.
 
-6. Invisible fences need approval prior to installation
+6. Invisible fences need approval prior to installation.
 
 7. Invisible fencing wiring must be buried no less than six inches (6") inside the lot line. No alterations of the yard grade shall be permitted with the installation of such system.
 
-## Doors
+### Doors
 
 1. Doors may be replaced with doors that are similar in style and composition. Requests for replacement doors shall be submitted including pictures and color choices.
 
-## Driveways and Entrances to Garage
+### Driveways and Entrances to Garage
 
 1. Paver Driveways and entrances to garages may be considered by the Architectural Review Committee. City permits are also required for the installation of pavers if approved by the ARC.
 
@@ -147,43 +234,41 @@ When applicable, each application must include:
 
 4. Samples of the pavers and photos of the existing driveway should be submitted with the application. When replacing poured concrete driveway with paver driveways no graphics of any kind will be permitted. No logos, teams, designs, borders or lines of any kind will be approved. Color of the paver driveway will be consistent and match the color of the house. Walkways to the backyard will only be adjacent to the garage side of the house. Additionally, In order for the neighborhood to be consistent, no concrete extensions will be considered, only paver extensions will be considered.
 
-### Approved Paver Patterns:
+   **Brick patterns consistent with The Reserve at Minneola neighborhood are as follows:**
+   - **MEGA OLDE TOWNE & ANTIQUED**
+     - Approved Patterns: Random Running Bond, Herringbone
+   - **OLDE TOWNE & ANTIQUED**
+     - Approved Patterns: Random, Random Running Bond, Running Bond, T Patterns
+   - **ROMA PAVERS**
+     - Approved Patterns: Modular #1, Modular #2, Running Bond
+   - **4X8 BRICK PAVERS & ANTIQUED**
+     - Approved Patterns: Herringbone 90 and Parquet
 
-**MEGA OLDE TOWNE & ANTIQUED**
-- Approved Patterns: Random Running Bond, Herringbone
+   **Standard colors for pavers:** Autumn Blend, Cappuccino, Glacier, Sand Dune and Sierra. 
 
-**OLDE TOWNE & ANTIQUED**
-- Approved Patterns: Random, Random Running Bond, Running Bond, T Patterns
-
-**ROMA PAVERS**
-- Approved Patterns: Modular #1, Modular #2, Running Bond
-
-**4X8 BRICK PAVERS & ANTIQUED**
-- Approved Patterns: Herringbone 90 and Parquet
-
-**Standard colors for pavers:** Autumn Blend, Cappuccino, Glacier, Sand Dune and Sierra. 
-
-**Additional colors for Old Towne:** Lion's Bridge, Mahogany Ash, Oak Run, Old Chicago, South Beach, Ortega and Sante Fe.
+   **Additional colors for Old Towne:** Lion's Bridge, Mahogany Ash, Oak Run, Old Chicago, South Beach, Ortega and Sante Fe.
 
 5. No driveway expansion shall be permitted beyond the external side lines of the garage.
 
 6. Screen doors are not permitted for garages.
 
-## Elevations (change in Facade including reconstruction)
+### Elevations and Reconstruction
+
+#### Elevations (Change in Facade)
 
 1. Changes in the outside appearance of the facade will not be permitted unless these features are or were currently offered by the builders as an option.
 
 2. No vinyl siding will be permitted.
 
-3. All reconstruction including roofs shall be of the same or substantially similar material, colors, etc. as the original construction of the house.
+3. All reconstruction shall be of substantially similar material, colors, etc. as the original construction of the house.
 
-## Elevations (change in Grade)
+#### Elevations (Change in Grade)
 
 1. No owner shall excavate or extract earth (dirt) from a Lot for any business or commercial purpose.
 
 2. No elevation changes shall be permitted which materially affect surface grade of surrounding Lots or change the flow and drainage of surface water at Reserve at Minneola.
 
-## Encroachment and Plantings on Common Grounds
+### Encroachment and Plantings on Common Grounds
 
 1. No extension of the landscaping of Home sites will be permitted onto Association common grounds.
 
@@ -191,9 +276,9 @@ When applicable, each application must include:
 
 3. A maximum of three (3) ornaments and/or potted plants are permitted in front of the house or in the rear of a home that is not screened with a fence or other approved screening such as landscaping.
 
-## Exterior Painting and Approved Color Schemes
+### Exterior Painting and Approved Color Schemes
 
-1. Only those colors noted on the Approved Paint Colors Exhibit are permitted. Architecture Review Committee seeks to remove the "Salmon" color scheme and SW0031 Dutch Tile Blue from all approved color schemes.
+1. Only those colors noted on the current Approved Paint Colors Exhibit are permitted for all paint applications. Any color schemes not currently included in the Approved Paint Colors Exhibit, including those that may have been previously approved, are not permitted for new applications. Homeowners with existing paint schemes that are not included in the current Approved Paint Colors Exhibit will be required to transition to an approved color scheme when repainting in accordance with these guidelines.
 
 2. Prior to painting, each Owner must submit to the ARC a color plan showing the color of all exterior surfaces that shall include samples of the actual colors to be utilized and the materials.
 
@@ -203,38 +288,48 @@ When applicable, each application must include:
 
 5. There must be a minimum distance of one home to either side and in front of the applicant's home before a color combination can be repeated.
 
-**Approved paint schemes can be found at:**
-https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
+6. **Approved paint schemes can be found at:** https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
 
-## Fencing
+### Fencing
 
 No fences are approved without the express, prior written approval of the Architectural Review Committee (ARC) of the Reserve at Minneola Homeowners Association, Inc. (HOA). Please note that the ARC has up to 30 days to act on an application. PLEASE PLAN YOUR PROJECT ACCORDINGLY.
 
-### 1. Standard lots
+#### Fence Setback Requirements
 
-a. Privacy fences Installed for the purpose of enclosing the backyard:
-   - i. Are to be six foot (6') high tongue and groove style white or beige PVC,
-   - ii. Must be set back a minimum 10' from face of house. If part of front face of house is set deeper, the minimum setback is 5' on that particular side. (See Sketch)
-   - iii. The fence must be installed immediately inside the property line. Also remember that the fence is on your property and you are responsible to maintain the property up to the property line. This means that you are responsible for trimming the grass on the outside of the fence up to your property line. (Exception – when aluminum picket fence is placed around the perimeter of a swimming pool to meet county code.)
+All fences must comply with the following setback requirements:
+- **Primary Rule:** No fence shall be constructed closer than ten (10) feet back from the forward facing corners of the house.
+- **Exception:** If part of the front face of the house is set deeper (recessed), the minimum setback on that particular side may be reduced to five (5) feet.
+- **Front Yard Restriction:** No fence shall be permitted to extend beyond the front corners of the house in any circumstance. Front yards may not be fenced.
 
-b. Aluminum picket fence shall be four foot (4') or five foot (5') high black aluminum open picket style commonly referred to as the Key West style; Maximum five (5) feet in height.
+#### Standard Lots
 
-### 2. Corner lots
+a. **Privacy fences** installed for the purpose of enclosing the backyard:
+   - Are to be six foot (6') high tongue and groove style white or beige PVC
+   - Must comply with setback requirements stated above
+   - The fence must be installed immediately inside the property line. Also remember that the fence is on your property and you are responsible to maintain the property up to the property line. This means that you are responsible for trimming the grass on the outside of the fence up to your property line. (Exception – when aluminum picket fence is placed around the perimeter of a swimming pool to meet county code.)
 
-- a. ALTERNATE "A" - Four foot (4') or five foot (5') high black aluminum open picket style 5' off the sidewalk, OR
-- b. ALTERNATE "B" - Six foot (6') high white or beige PVC tongue and groove style 5' off the sidewalk.
+b. **Aluminum picket fence** shall be four foot (4') or five foot (5') high black aluminum open picket style commonly referred to as the Key West style; Maximum five (5) feet in height.
 
-### 3. Storm water Management Areas (Dry/Wet Ponds)
+#### Corner Lots
 
-- a. ALTERNATE "A" - Four foot(4') or five foot(5') high black aluminum fencing on side yard then tapering down to 4'on back of lot is allowed or
-- b. ALTERNATE "B" – Six (6') high white or beige PVC privacy fence on side yards - the last eight foot (8) then tapers down as it approaches the rear property line will then transition in height to match the rear fence. The rear fence must be four foot (4') high open picket style either white or beige pvc or black aluminum style fence.
+Corner lot fence placement formula: Any side fencing on a typical or regularly shaped corner lot shall be located no more than one-half of the distance between the side wall of the house and the side property line that is next to the side street. The measurement for the distance of this fence shall start at the side wall of the house.
 
-### 4. Conservation Lots
+- **ALTERNATE "A"** - Four foot (4') or five foot (5') high black aluminum open picket style 5' off the sidewalk, OR
+- **ALTERNATE "B"** - Six foot (6') high white or beige PVC tongue and groove style 5' off the sidewalk.
 
-- a. ALTERNATE "A" - Four foot (4') or five foot (5') high black aluminum fencing on side yard then tapering down to 4'on back of lot is allowed or
-- b. ALTERNATE "B" - 6' White or beige PVC privacy fence on side yards - the last eight foot (8) then tapers down as it approaches the rear property line will then transition in height to match the rear fence. The rear fence must be four foot (4') high open picket style either white or beige pvc or black aluminum style fence.
+Fences for corner lots require close coordination with the ARC due to their unique layout and concerns for vehicle visibility/safety and compliance with existing easements and county building code setback requirements. The ARC will also take into consideration how a home abutting this lot will be affected due to front set back requirements for the abutting lot. Fence setbacks on irregularly shaped corner lots will be reviewed on a case-by-case basis.
 
-### 5. General Conditions
+#### Storm Water Management Areas (Dry/Wet Ponds)
+
+- **ALTERNATE "A"** - Four foot(4') or five foot(5') high black aluminum fencing on side yard then tapering down to 4' on back of lot is allowed or
+- **ALTERNATE "B"** – Six (6') high white or beige PVC privacy fence on side yards - the last eight foot (8) then tapers down as it approaches the rear property line will then transition in height to match the rear fence. The rear fence must be four foot (4') high open picket style either white or beige pvc or black aluminum style fence.
+
+#### Conservation Lots
+
+- **ALTERNATE "A"** - Four foot (4') or five foot (5') high black aluminum fencing on side yard then tapering down to 4' on back of lot is allowed or
+- **ALTERNATE "B"** - 6' White or beige PVC privacy fence on side yards - the last eight foot (8) then tapers down as it approaches the rear property line will then transition in height to match the rear fence. The rear fence must be four foot (4') high open picket style either white or beige pvc or black aluminum style fence.
+
+#### General Conditions
 
 a. Front yards may not be fenced
 
@@ -244,7 +339,7 @@ c. Please attach a copy of your plot plan to your alteration application with de
 
 d. Once approved, the installation must be completed within 90 days.
 
-e. Fencing must remain in "like new" condition at all times. "Like new" condition means that regular cleaning of the fence would be needed to keep the crisp, clean appearance. "Like new" also means that any repairs to maintain the vertical nature of the fence should be performed on an as needed basis. At no time will bent, warped, unstable or loose fence panels or posts be allowed for a period of longer than seven days, seven days being deemed a reasonable time period to perform said repairs.
+e. Fencing must remain in "like new" condition at all times. (See Definitions section for detailed maintenance standards)
 
 f. It is recommended that a twelve inch (12") wide mulched maintenance strip be installed and maintained beginning on the property line and continuing under the fence into your yard. This will make it easier to maintain the fence without causing damage and reduces or eliminates the need to trim the grass on the outside of the fence.
 
@@ -262,39 +357,38 @@ l. Should the Association, City or County be required to correct a drainage or u
 
 m. Only the finished of "smooth" side of the fence may face outward. No posts or stringers may be visible from the outside of the fence.
 
-n. No fence shall be constructed closer than ten (10) feet back from the forward facing corners of the house. No fence shall be permitted to extend beyond the front corners of the house in any circumstance.
+n. See Fence Setback Requirements section above for detailed setback rules.
 
-o. Notwithstanding any other governmental regulations, any side fencing on a typical or regularly shaped corner lot shall be located no more than one-half of the distance between the side wall of the house and the side property line that is next to the side street. The measurement for the distance of this fence shall start at the side wall of the house, Fence setbacks on irregularly shaped corner lots will be reviewed on a case-by-case basis.
+o. See Corner Lots section above for corner lot fence placement formula.
 
-p. Fences for corner lots require close coordination with the ARC due to their unique layout and concerns for vehicle visibility/safety and compliance with existing easements and county building code setback requirements. The ARC will also take into consideration how a home abutting this lot will be affected due to front set back requirements for the abutting lot.
+p. Only where easements or swales exist, fences will be installed on the property line. Alleyways between fences will not be permitted. (Exception – when aluminum picket fence is placed around the perimeter of a swimming pool to meet county code.)
 
-q. Only where easements or swales exist, fences will be installed on the property line. Alleyways between fences will not be permitted. (Exception – when aluminum picket fence is placed around the perimeter of a swimming pool to meet county code.)
+q. Irrigation systems must be reconfigured to provide complete coverage outside of the fenced area.
 
-r. Irrigation systems must be reconfigured to provide complete coverage outside of the fenced area.
+r. Any and all required governmental approvals/permits for fence construction are the responsibility of the homeowners and must be obtained prior to construction. It is the responsibility of the Owner to comply with all City, County and/or Association requirements, whichever is most stringent.
 
-s. Any and all required governmental approvals/permits for fence construction are the responsibility of the homeowners and must be obtained prior to construction. It is the responsibility of the Owner to comply with all City, County and/or Association requirements, whichever is most stringent.
+The Association reserves the right to prohibit fencing of certain lots due to aesthetic reasons.
 
-*The Association reserves the right to prohibit fencing of certain lots due to aesthetic reasons.*
 
-## Flags – Federal, State, Military
+### Flags
 
-1. Flagpoles and flags shall be allowed per FS 720.304: Homeowners may erect a freestanding flagpole no more than 20 feet high to display one portable, removable United States flag or official flag of the State of Florida in a respectful manner, and one portable, removable official flag, in a respectful manner, not larger than 4 1/2 feet by 6 feet, which represents the United States Army, Navy, Air Force, Marine Corps, or Coast Guard, or a POW-MIA flag.
+1. Flagpoles and flags shall be allowed per Florida Statute 720.304.
 
-2. Flags shall be replaced if faded, tattered, or in poor condition
+2. Flags shall be replaced if faded, tattered, or in poor condition.
 
 3. Flagpoles and flag attachments will be kept in a clean and maintained condition.
 
-## Front Entry of Home
+### Front Entry of Home
 
 1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
 
-## Front Roof Changes
+### Front Roof Changes
 
 1. No changes other than skylights will be permitted on any roof which is visible from the front of the house.
 
 2. All shingle replacements must be dimensional with a thirty (30) year life. Any changes to roof/shingle style or color require ARC approval.
 
-## Garage
+### Garage
 
 1. No garage shall be enclosed or converted into a living area and must at all times be used as a garage for car storage or storage of Owners personal property.
 
@@ -306,7 +400,7 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 5. Replacement of garage doors shall meet current County codes at the time of replacement. If there is more than one (1) garage door and the new door cannot be an exact match, then all doors must be replaced at the same time.
 
-## Garbage and Trash —Screening of Containers and HVAC Equipment
+### Garbage and Trash—Screening of Containers and HVAC Equipment
 
 1. Acceptable screens shall be of material and color compatible with the design of the residence and may include landscaping or fencing. Screen shall be consistent with the currently authorized PVC fencing material. PVC screens must be in good repair at all times, standing correctly and with no mold or mildew present.
 
@@ -316,7 +410,7 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 4. If plantings are used for screening, "adequate screening' shall be plantings which initially (i.e. when first planted or installed) screens a minimum of eighty percent (80%) and which completely screens the cans or equipment within one (1) year from the date of approval.
 
-## Gas Tanks (Propane and/or Natural)
+### Gas Tanks (Propane and/or Natural)
 
 1. Preferable installation is to have gas tanks buried. Gas tanks installed above ground shall meet applicable building code requirements.
 
@@ -326,7 +420,7 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 4. Separate and apart from the foregoing, pursuant to the Declaration, other than one (1) portable propane tank for use with an outdoor barbeque grill, no oil tanks or bottled gas tanks shall be allowed on any Lot without the express written consent of the ARC and such tanks shall be located so they cannot be seen from other Lots, Common Area or Streets.
 
-## Generators
+### Generators
 
 1. Permanent or hard wired generators may be installed and mounted on a concrete pad at the side/rear of the house. These generators are normally hard wired to the house's electrical system and run off of propane.
 
@@ -336,17 +430,13 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 4. The generator enclosure box shall be painted to match the exterior body color of the house unless located within a fenced yard.
 
-## Gutters and Solar Collectors
+### Gutters
 
 1. All gutters must match the exterior house color; trim color or window frame color.
 
 2. Gutter down spouts must not concentrate water flow onto neighboring properties.
 
-3. Solar collectors must be flush mounted on the roof and whenever possible be located on the rear and side roofs of the house and should not be installed so as to be visible from the street. Roof mounted solar equipment (excluding the solar panels) must match the roof color. (Note: Roof mounted solar collectors and equipment may void builder warranties and/or the roof warranty.)
-
-4. Yard mounted solar collectors are allowed within a fenced area of the yard and shall not exceed the height of the fence.
-
-## Holiday Decorations
+### Holiday Decorations
 
 1. Holiday displays in the front entryway and on the front door, along with traditional holiday lighting do not require approval from the ARC.
 
@@ -358,7 +448,7 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 5. Holiday decorations may be placed on the exterior of the lot fifteen (15) days prior to the special day and must be removed five (15) days after the special day.
 
-## House Numbers
+### House Numbers
 
 1. To aid emergency personnel, delivery people and to conform to Lake County ordinances, each house shall have a readily visible number permanently attached to the front of the house.
 
@@ -366,36 +456,41 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 3. Any changes to original house numbers must be approved by ARC.
 
-## Irrigation
+### Irrigation
 
 1. Irrigation may be installed in the front, side and rear yards of houses.
 
 2. For houses where this is not the case, the lack of an installed irrigation system does not relieve you of the responsibility of maintaining your lawn and landscaping to the minimally acceptable community standards.
 
-## Landscaping
+### Landscaping
 
 1. The addition or removal of any landscaping is a landscape change subject to the power of the ARC to promulgate guidelines.
 
 2. The following guidelines apply to landscape changes:
-   - i. Landscaping may be added to or removed from the yard of any Lot, but only with the approval of the ARC.
-   - ii. Maintenance of the lawn and landscaping shall mean at a minimum, upkeep, maintenance and preservation of that which was initially installed by the builder of the house on the Lot.
-   - iii. Any Lot owner who wishes to modify and change the landscaping installed by the builder of the house on his Lot, to a Xeriscape or low water-usage design must first obtain approval from the ARC. The Alteration Application requesting this approval must be accompanied by a landscape design that is a certified Florida-friendly yard under the Florida Yards and Neighborhoods (FYN) program. Information about this program can be obtained through the Lake County website online.
+   - Landscaping may be added to or removed from the yard of any Lot, but only with the approval of the ARC.
+   - Maintenance of the lawn and landscaping shall mean at a minimum, upkeep, maintenance and preservation of that which was initially installed by the builder of the house on the Lot.
+   - Any Lot owner who wishes to modify and change the landscaping installed by the builder of the house on his Lot, to a Xeriscape or low water-usage design must first obtain approval from the ARC. The Alteration Application requesting this approval must be accompanied by a landscape design that is a certified Florida-friendly yard under the Florida Yards and Neighborhoods (FYN) program. Information about this program can be obtained through the Lake County website online.
 
-### Berms/Drainage Swales
+3. **Florida-Friendly Landscaping:** In accordance with Florida Statute 720.3075, homeowners have the right to install Florida-friendly landscaping. ARC approval is required for all landscaping projects to ensure that the proposed landscaping complies with Florida Statute requirements and community aesthetic standards. Applications should include:
+   - Plant selection list demonstrating use of Florida-friendly plants
+   - Design plan showing water conservation measures
+   - Certification from Florida Yards and Neighborhoods (FYN) program if applicable
+
+#### Berms/Drainage Swales
 
 1. Except as installed by the developer or builder, earthen berms or drainage swales shall not be altered.
 
-### Buffer Landscaping Between Lots
+#### Buffer Landscaping Between Lots
 
-1. Side yards between Lots may be landscaped with plant materials to provide visual screening. Continuous linear runs shall not exceed twenty-five (25) feet in length and must be at least ten (10) feet back from the front corner of the house (same as Fence Guidelines), Normally, no more than one (1) landscape buffer will be permitted on each side of a Lot. Curvilinear shrub hedges augmented by ornamental, shade and/or palm trees are preferred.
+1. Side yards between Lots may be landscaped with plant materials to provide visual screening. Continuous linear runs shall not exceed twenty-five (25) feet in length and must be at least ten (10) feet back from the front corner of the house (same as Fence Guidelines). Normally, no more than one (1) landscape buffer will be permitted on each side of a Lot. Curvilinear shrub hedges augmented by ornamental, shade and/or palm trees are preferred.
 
 2. Buffer landscaping shall not be located any closer than five (5) feet to the property line as measured from the tree trunk or plant material's main trunk. Buffer landscaping shall not extend into any front yard setbacks or obstruct the vision and safety of vehicular or pedestrian traffic.
 
 3. On view corridor Lots, shrub material from the rear building set back to the property line shall be maintained at a four (4) foot height to ensure visibility and will be reviewed on a case-by-case basis by ARC. The selection of buffer landscaping species shall be made from the approved Plant Materials List.
 
-### Edging or Landscape Borders
+#### Edging or Landscape Borders
 
-1. Poured concrete curbing, concrete edging blocks, stacked stone or slate and black or green plastic edging are the only acceptable forms of edging a sample or photo of the curbing/edging shall accompany the request.
+1. Poured concrete curbing, concrete edging blocks, stacked stone or slate and black or green plastic edging are the only acceptable forms of edging. A sample or photo of the curbing/edging shall accompany the request.
 
 2. Only one style of landscape curbing and/or edging may be used in areas of the lot which are not enclosed by a privacy fence.
 
@@ -413,7 +508,7 @@ s. Any and all required governmental approvals/permits for fence construction ar
 
 Permitted styles are poured in place stamped concrete, stone look, Keystone block, retaining wall blocks and stacked slate. Colors may be muted tones of beige, tan, gray, terra cotta or natural concrete.
 
-### Landscape Lighting/Flood Lights
+#### Landscape Lighting/Flood Lights
 
 1. Landscape lighting, solar or wired, may only be installed in landscaping beds, sides of the driveway, and along the walk from the front door to the driveway. It may not be installed adjacent to the sidewalk or between the sidewalk and the street. Individual lights shall be black, white, or natural metal in color (silver, gold, bronze or copper).
 
@@ -427,7 +522,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 6. Lights should be maintained in working order.
 
-### Trees — Planting
+#### Trees — Planting
 
 1. The originally installed trees were part of a landscape plan approved by Lake County/Minneola. Some Lot trees were actually a development requirement. If relocated, all reasonable efforts must be exercised to keep them alive. If they die, they must be replaced with a tree from the approved species list from the Lake County/Minneola Tree Ordinance.
 
@@ -437,29 +532,29 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 4. Fruit and citrus trees will be considered by the ARC; however, they will be required to be planted in the rear of a fenced yard and must be located at a distance from the property line that will not allow encroachment of the mature tree onto a neighboring property.
 
-### Trees — Relocation
+#### Trees — Relocation
 
 1. Existing trees to be relocated shall be pruned then immediately replanted, firmly secured in the ground by staking and adequately watered and fertilized until well established and rooted. Any relocating of existing trees should be done by a licensed professional who will adhere to nursery standards for relocating.
 
-### Trees— Removal or Destruction
+#### Trees— Removal or Destruction
 
 1. The removal or destruction of any tree and distinctive flora is a landscape change and, therefore, subject to the authority of the City of Minneola and the ARC to approve or disapprove the removal or destruction of trees.
 
 2. The following guidelines shall apply to the removal or destruction of trees and distinctive flora:
-   - i. Trees that have been planted at the direction of the builder/developer to meet County/City development requirements shall not be intentionally destroyed or removed.
-   - ii. Trees which have a diameter in excess of six inches (6") measured two feet (2') above ground level, and distinctive flora shall not be intentionally destroyed or removed except with the prior approval, in writing of the ARC.
-   - iii. Prior to the written approval of the ARC to remove any tree described above or distinctive flora, the homeowner shall first obtain written approval (in the form of a removal permit along with any conditions for replacing the removed tree or distinctive flora) from the governing County/City agency or department.
-   - iv. The above requirements pertain to trees and distinctive flora which die, for whatever reason, and unless otherwise approved by the ARC, shall be replaced with the same species and size tree or distinctive flora as the original tree or distinctive tree flora.
+   - Trees that have been planted at the direction of the builder/developer to meet County/City development requirements shall not be intentionally destroyed or removed.
+   - Trees which have a diameter in excess of six inches (6") measured two feet (2') above ground level, and distinctive flora (see Definitions section) shall not be intentionally destroyed or removed except with the prior approval, in writing of the ARC.
+   - Prior to the written approval of the ARC to remove any tree described above or distinctive flora, the homeowner shall first obtain written approval (in the form of a removal permit along with any conditions for replacing the removed tree or distinctive flora) from the governing County/City agency or department.
+   - The above requirements pertain to trees and distinctive flora which die, for whatever reason, and unless otherwise approved by the ARC, shall be replaced with the same species and size tree or distinctive flora as the original tree or distinctive tree flora.
 
-### Trees - Street Trees
+#### Trees - Street Trees
 
 1. Street Trees are not permitted.
 
-### Trellises, Lattice, Arbors, Arches and Pergolas
+#### Trellises, Lattice, Arbors, Arches and Pergolas
 
 1. Arches, arbors, pergolas, trellis and similar structures are permitted with ARC approval.
 
-### Vegetable, Herb and Cutting Gardens, Compost Bins
+#### Vegetable, Herb and Cutting Gardens, Compost Bins
 
 1. Vegetable, herb and cutting gardens shall be confined in fenced rear yard and plants shall not exceed fence.
 
@@ -469,11 +564,11 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 4. Compost bins shall be located a minimum of fifteen feet (15') from neighboring property lines.
 
-## Lawn Furnishings
+### Lawn Furnishings
 
 1. All other types of lawn furniture will be located in the rear of the home and not be visible from the street in front of the home.
 
-## Lawns
+### Lawns
 
 1. Lawns shall be maintained in accordance with adopted policies that define the minimum community standards.
 
@@ -485,7 +580,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 5. Plant beds and trees will be mulched with mulch or rock with ARC approval. It is suggested that rigid landscape edging be used to keep materials in plant beds.
 
-## Lighting
+### Lighting
 
 1. All exterior lighting shall be consistent with the character established in Reserve at Minneola and be limited to the minimum necessary for safety, identification, and decoration.
 
@@ -503,17 +598,17 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 8. Post mount light fixtures shall be permitted in the rear of the house and not visible from the street in front of the house.
 
-## Lightning Rods and Brushes
+### Lightning Rods and Brushes
 
 1. Lightning rods and brushes may be installed and shall be done in a manner that is least obtrusive and uses the minimum number to accomplish the desired purpose. ARC approval is required.
 
 2. Lightning rods shall not be allowed to fall into disrepair. Any lighting rods needing repair or replacement shall be repaired or replaced immediately or completely removed.
 
-## Outbuildings, Sheds and Storage Containers
+### Outbuildings, Sheds and Storage Containers
 
 1. No temporary outbuildings, sheds, or other outdoor storage containers shall be permitted on any Lots. Exceptions may be approved by the ARC.
 
-## Play Structures, Recreational Equipment and Toys
+### Play Structures, Recreational Equipment and Toys
 
 1. All exterior play and recreational equipment, including swing sets, jungle gyms, soccer goals, trampolines, or the like must be located within the rear yard of the property and must be screened from public view with a privacy fence only.
 
@@ -531,7 +626,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 8. All portable play and recreational equipment shall be removed upon issuance of any storm warnings of Tropical Storm Warning or higher. Owners shall take all recommended actions to secure non-portable equipment in storm events to ensure that said equipment does not cause bodily injury or damage to ether's property.
 
-### Play Structures - General
+#### Play Structures - General
 
 1. Play structures include but are not limited to, gym and/or swing sets, slides, playsets, playhouses, tetherball poles, etc.
 
@@ -549,7 +644,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 8. Play structures on a corner Lot should be located to the center of the Lot or on the interior side of the Lot; not on the street side. It is highly recommended that the Lot have a six-foot privacy fence.
 
-## Rain Barrels & Rain Chains
+### Rain Barrels & Rain Chains
 
 1. Rain barrels designed for the purpose of capturing rain from the gutter systems may be used on the side or rear of the house.
 
@@ -559,19 +654,19 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 4. Rain chains may only be used in the rear of the home.
 
-## Reflectors
+### Reflectors
 
 1. Reflectors are not allowed.
 
-## Roofs
+### Roofs
 
-1. Changes to the roof must be approved by the ARC.
+1. Changes to the roof must be approved by the ARC. All shingle replacements must be dimensional with a thirty (30) year life. Any changes to roof/shingle style or color require ARC approval.
 
-## Roof Extensions/Covering
+### Roof Extensions/Covering
 
 1. No roof extensions (carport or overhang) for a car, boat, equipment or any other purpose will be permitted.
 
-## Screen Enclosures Patios and Sunrooms
+### Screen Enclosures Patios and Sunrooms
 
 1. Screen enclosures may have shingled, Elite style insulated aluminum roofs or screened roof structures. If shingled, they shall match the existing shingles on the house and shall maintain the rear setback as required by local municipality code. If insulated aluminum panels, frame and roof color must be the same if top of roof will be visible to the street. The pitch of the roof shall meet current code requirements.
 
@@ -601,13 +696,13 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 14. Irrigation systems may require modification to ensure 100% coverage of the property. This should be a part of the Alteration Application.
 
-## Screen and Storm Doors
+### Screen and Storm Doors
 
 1. Screen and storm doors are allowed with ARC approval.
 
 2. Security doors (metal grilles or bars) are prohibited.
 
-## Sidewalks and Stepping Stones
+### Sidewalks and Stepping Stones
 
 1. Sidewalks may be installed from the driveway to a side garage door or fence gate leading to the back yard.
 
@@ -615,17 +710,46 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 3. Stepping stones are permitted with ARC approval and must be maintained.
 
-4. Other signs are not permitted without ARC approval.
+### Signage
 
-## Skylights and Solar Panels
+1. No permanent signage is permitted on any Lot.
+
+2. Short-term signage is allowed for a maximum of thirty (30) days, with the exception of realtor signage for the sale of a home, which may remain for the duration of the listing period.
+
+3. All signage must be professionally made and maintained in good condition.
+
+4. Political signs must comply with all applicable laws and may only be displayed during the time periods allowed by law.
+
+5. No signage may be placed on common property without express written permission from the Board of Directors.
+
+### Skylights
 
 1. Skylights must be integrated as part of the roof design and require prior written approval from the ARC before installation.
 
-2. Solar water heating panels will require approval by the ARC. Any solar panels and related appurtenances and equipment shall be designed and constructed to appear as an integrated part of the building's architecture. This shall generally mean that the panels shall be roof mounted so that the top surface is flush with the roof surface with all appurtenances recessed into the building's attic.
+### Solar Panels and Solar Collectors
 
-3. Solar panels should not be installed on the front street facing side of the home. All pipes must be of a color to blend with the roof shingles and color of house.
+1. **Consolidated Requirements:** This section governs all solar energy devices including solar panels, solar collectors, and related equipment. Any installation requires prior written approval from the ARC.
 
-## Storm/Hurricane Shutters
+2. **Roof-Mounted Solar Equipment:**
+   - Solar panels and collectors must be flush mounted on the roof
+   - Equipment should be located on rear and side roofs whenever possible and should not be installed so as to be visible from the street
+   - All roof-mounted solar equipment (excluding the solar panels themselves) must match the roof color
+   - Solar panels and related appurtenances and equipment shall be designed and constructed to appear as an integrated part of the building's architecture
+   - This shall generally mean that the panels shall be roof mounted so that the top surface is flush with the roof surface with all appurtenances recessed into the building's attic
+   - All pipes must be of a color to blend with the roof shingles and color of house
+   - Note: Roof mounted solar collectors and equipment may void builder warranties and/or the roof warranty
+
+3. **Ground-Mounted Solar Equipment:**
+   - Yard mounted solar collectors are allowed only within a fenced area of the yard
+   - Ground-mounted equipment shall not exceed the height of the fence
+   - Must be screened from view from the street
+
+4. **General Requirements:**
+   - All installations must meet applicable building and electrical codes
+   - Equipment must be maintained in good working order
+   - Any damaged or non-functional equipment must be repaired or removed within 30 days
+
+### Storm/Hurricane Shutters
 
 1. Permanently installed shutters may be accordion or roll-up style and must be approved by the ARC.
 
@@ -635,7 +759,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 4. Under no circumstances may storm shutters or protective panels be used as a routine security measure.
 
-## Swimming Pools and Spas
+### Swimming Pools and Spas
 
 1. Any swimming pool to be constructed on any home site is subject to review and approval by the ARC.
 
@@ -657,7 +781,33 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 10. Under no circumstances may chlorinated water be discharged onto other homeowners' lawns, community streets, or into retention ponds.
 
-## Water Softeners
+### Temporary Structures
+
+1. **Portable Storage/Moving Containers:**
+   - Portable storage/moving containers (commonly known as PODS) or similar units are permitted for a maximum of one (1) month
+   - Must be placed on the homeowner's driveway only - not on streets or common areas
+   - Homeowners may request an extension from the ARC if needed
+   - Units must be maintained in good condition and not create a safety hazard
+
+2. **Construction Dumpsters:**
+   - Construction dumpsters are permitted for active construction projects for a maximum of one (1) month
+   - Must be placed on the homeowner's driveway only - not on streets or common areas
+   - Homeowners may request an extension from the ARC if construction requires additional time
+   - Dumpsters must be covered when not in active use to prevent debris from blowing
+
+3. **Temporary Shelters During Construction:**
+   - Temporary construction shelters, scaffolding, and protective coverings are permitted during active construction for a maximum of one (1) month
+   - Homeowners may request an extension from the ARC if construction requires additional time
+   - All temporary structures must meet applicable safety codes
+   - Must be removed immediately upon completion of construction
+
+4. **General Requirements for All Temporary Structures:**
+   - No temporary structure may block sidewalks, impede traffic, or create safety hazards
+   - All temporary structures must be properly secured against wind
+   - Homeowners are responsible for any damage caused by temporary structures
+   - Extensions beyond the initial time period must be requested in writing to the ARC
+
+### Water Softeners
 
 1. Installation usually requires a permit. Please check with the County Building Department.
 
@@ -665,7 +815,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 3. Water softeners shall be screened from view from the street with shrubs or other landscaping under the same guidelines as those for screening HVAC and swimming pool equipment.
 
-## Windows- Replacement, Tinting and Treatments
+### Windows - Replacement, Tinting and Treatments
 
 1. Originally installed windows may be replaced with windows of similar style. Replacement window frames shall match existing window frames unless all windows in the home are being replaced at the same time in which instance a request to change style or color shall be considered by the ARC.
 
@@ -675,12 +825,21 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 4. No silver, gold or bronze reflective colors are allowed. No reflective tinting or mirror finishes (to include aluminum foil) will be permitted.
 
+---
+
 ## Exterior Maintenance of Structures and Grounds
 
 1. Lots and houses shall be maintained in a neat and attractive manner at all times.
 
 2. In the event an Owner of any Lot in the Properties shall fail to maintain the Lot and the improvements or fences situated thereon in a manner satisfactory to the Board of Directors in its reasonable discretion, the Association, after approval by two-thirds (2/3) vote of the Board of Directors and ten (10) days written notice to the Owner and opportunity for a hearing before the Board of Directors, shall have the right, through its agents and employees, to enter said parcel and to repair, clear; trim, maintain and restore the Lot and exterior of the buildings and any other improvements erected thereon. The cost of such exterior maintenance shall be a Specific Assessment against the Lot and Owner and shall be added to and become part of the total Assessment to which such Lot is subject. The Specific Assessment shall be due and payable thirty (30) days from the date said Assessment is made. If said Assessment is not paid when due and payable, interest shall be charged by the Association at the highest rate permitted by Florida law.
 
-## Portable Storage/ Moving Containers
+---
 
-1. Portable storage/ moving containers (commonly known as PODS) or any similar units designed for the temporary storage or transportation of a resident's personal household goods are permitted in the community for a maximum of seven (7) days.
+## Appendices
+
+### Appendix A: Approved Paint Colors
+Approved home paint schemes can be found at:
+https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
+
+### Appendix B: Approved Paver Patterns
+[Reference to separate document: approved_paver_driveway_patterns.pdf]
