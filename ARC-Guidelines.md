@@ -50,7 +50,7 @@
    - [Roof Extensions/Covering](#roof-extensionscovering)
    - [Screen Enclosures Patios and Sunrooms](#screen-enclosures-patios-and-sunrooms)
    - [Screen and Storm Doors](#screen-and-storm-doors)
-   - [Front Entry of Home](#front-entry-of-home)
+   - [Screened Entry of Home](#screened-entry-of-home)
    - [Sidewalks and Stepping Stones](#sidewalks-and-stepping-stones)
    - [Signage](#signage)
    - [Skylights](#skylights)
@@ -698,7 +698,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 2. Security doors (metal grilles or bars) are prohibited.
 
-### Front Entry of Home
+### Screened Entry of Home
 
 1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
 
