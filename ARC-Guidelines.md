@@ -28,7 +28,6 @@
    - [Exterior Painting and Approved Color Schemes](#exterior-painting-and-approved-color-schemes)
    - [Fencing](#fencing)
    - [Flags](#flags)
-   - [Front Entry of Home](#front-entry-of-home)
    - [Garage](#garage)
    - [Garbage and Trash—Screening of Containers and HVAC Equipment](#garbage-and-trash-screening-of-containers-and-hvac-equipment)
    - [Gas Tanks (Propane and/or Natural)](#gas-tanks-propane-andor-natural)
@@ -51,6 +50,7 @@
    - [Roof Extensions/Covering](#roof-extensionscovering)
    - [Screen Enclosures Patios and Sunrooms](#screen-enclosures-patios-and-sunrooms)
    - [Screen and Storm Doors](#screen-and-storm-doors)
+   - [Front Entry of Home](#front-entry-of-home)
    - [Sidewalks and Stepping Stones](#sidewalks-and-stepping-stones)
    - [Signage](#signage)
    - [Skylights](#skylights)
@@ -378,10 +378,6 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
 
 3. Flagpoles and flag attachments will be kept in a clean and maintained condition.
 
-### Front Entry of Home
-
-1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
-
 ### Garage
 
 1. No garage shall be enclosed or converted into a living area and must at all times be used as a garage for car storage or storage of Owners personal property.
@@ -701,6 +697,10 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 1. Screen and storm doors are allowed with ARC approval.
 
 2. Security doors (metal grilles or bars) are prohibited.
+
+### Front Entry of Home
+
+1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
 
 ### Sidewalks and Stepping Stones
 
