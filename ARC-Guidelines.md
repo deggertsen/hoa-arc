@@ -278,7 +278,7 @@ When applicable, each application must include:
 
 ### Exterior Painting and Approved Color Schemes
 
-1. Only those colors noted on the current Approved Paint Colors Exhibit are permitted for all paint applications. Any color schemes not currently included in the Approved Paint Colors Exhibit, including those that may have been previously approved, are not permitted for new applications. Homeowners with existing paint schemes that are not included in the current Approved Paint Colors Exhibit will be required to transition to an approved color scheme when repainting in accordance with these guidelines.
+1. Homeowners changing paint colors must use only those colors noted on the current Approved Paint Colors Exhibit. Homeowners may maintain their existing paint scheme by submitting to the ARC: (a) current photographs of all exterior painted surfaces, and (b) documentation of the specific paint colors used, including manufacturer, color name, and color code for each surface. Upon ARC approval, the homeowner may continue using these existing colors for future repainting. Without such documentation, homeowners must transition to an approved color scheme when repainting.
 
 2. Prior to painting, each Owner must submit to the ARC a color plan showing the color of all exterior surfaces that shall include samples of the actual colors to be utilized and the materials.
 
