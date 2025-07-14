@@ -278,7 +278,7 @@ When applicable, each application must include:
 
 ### Exterior Painting and Approved Color Schemes
 
-1. Homeowners changing paint colors must use only those colors noted on the current Approved Paint Colors Exhibit. Homeowners may maintain their existing paint scheme by submitting to the ARC: (a) current photographs of all exterior painted surfaces, and (b) documentation of the specific paint colors used, including manufacturer, color name, and color code for each surface. Upon ARC approval, the homeowner may continue using these existing colors for future repainting. Without such documentation, homeowners must transition to an approved color scheme when repainting.
+1. All homeowners must provide an approved paint scheme to the ARC prior to painting. Homeowners may maintain their existing paint scheme if they can provide complete documentation of their current colors. If homeowners cannot provide their existing paint scheme, they must choose from the current Approved Paint Colors Exhibit.
 
 2. Prior to painting, each Owner must submit to the ARC a color plan showing the color of all exterior surfaces that shall include samples of the actual colors to be utilized and the materials.
 
