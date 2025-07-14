@@ -382,12 +382,6 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
 
 1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
 
-### Front Roof Changes
-
-1. No changes other than skylights will be permitted on any roof which is visible from the front of the house.
-
-2. All shingle replacements must be dimensional with a thirty (30) year life. Any changes to roof/shingle style or color require ARC approval.
-
 ### Garage
 
 1. No garage shall be enclosed or converted into a living area and must at all times be used as a garage for car storage or storage of Owners personal property.
@@ -662,7 +656,13 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 1. Changes to the roof must be approved by the ARC. All shingle replacements must be dimensional with a thirty (30) year life. Any changes to roof/shingle style or color require ARC approval.
 
-### Roof Extensions/Covering
+#### Front Roof Changes
+
+1. No changes other than skylights will be permitted on any roof which is visible from the front of the house.
+
+2. All shingle replacements must be dimensional with a thirty (30) year life. Any changes to roof/shingle style or color require ARC approval.
+
+#### Roof Extensions/Covering
 
 1. No roof extensions (carport or overhang) for a car, boat, equipment or any other purpose will be permitted.
 
