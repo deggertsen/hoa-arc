@@ -1,9 +1,8 @@
 # Reserve at Minneola
 # ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
-## Revised Draft
 
 **Adopted:** September 17, 2020  
-**Revision Date:** [To be determined]
+**Revision Date:** July 16, 2025
 
 ---
 
