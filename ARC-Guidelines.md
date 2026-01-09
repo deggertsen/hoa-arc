@@ -2,7 +2,7 @@
 # ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
 
 **Adopted:** September 17, 2020  
-**Revision Date:** July 16, 2025
+**Revision Date:** Jan 9, 2026
 
 ---
 
