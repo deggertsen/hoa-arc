@@ -49,9 +49,7 @@
    - [Screen Enclosures Patios and Sunrooms](#screen-enclosures-patios-and-sunrooms)
    - [Screen and Storm Doors](#screen-and-storm-doors)
    - [Screened Entry of Home](#screened-entry-of-home)
-   - [Security/Video Cameras](#securityvideo-cameras)
    - [Sidewalks and Stepping Stones](#sidewalks-and-stepping-stones)
-   - [Signage](#signage)
    - [Skylights](#skylights)
    - [Solar Panels and Solar Collectors](#solar-panels-and-solar-collectors)
    - [Storm/Hurricane Shutters](#stormhurricane-shutters)
@@ -685,22 +683,6 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
 
-### Security/Video Cameras
-
-1. Cameras may be installed only after written approval is obtained from the Association's ARC. This obligation by the Homeowner shall include the obligation to maintain, repair and replace any and all portions of the Home or Lot that are damaged, either directly or indirectly, by the installation, operation, maintenance, use and removal of any camera or cameras.
-
-2. Cameras shall be installed on the exterior of a Home in accordance with these rules as amended from time to time and shall be limited in number and size. Specifically, one Home may have up to eight (8) cameras on the exterior of the Home, provided that no more than four (4) of those cameras shall be visible when viewing the front elevation of the Home from the street. No camera installed on the exterior of a Home shall exceed seven (7) inches in length, four (4) inches in height and four (4) inches in width. All cable and conduit connected to or supporting a camera shall be concealed from view behind a wall, fascia board or soffit board.
-
-3. Cameras on the exterior of a Home shall be fixed to the exterior walls, soffit boards or fascia boards. Cameras are not permitted in any other location on the Lot, including but not limited to on roof tops. Cameras that rotate, pivot or move by remote control shall not be moved or positioned in a manner that may violate the privacy of another resident or that may impair a person's quiet enjoyment of their Home or Lot.
-
-4. Cameras shall be aesthetically pleasing to exterior of the home.
-
-5. No camera shall be installed in any manner or location that will violate the privacy of another person or their peaceful enjoyment of the Properties. For example, and without limitation, no camera on the exterior of a Home shall be pointed directly at the front door, garage door, windows or patio of another Home. Rather, cameras on the exterior of a Home shall be positioned to capture the areas immediately around the Home and the Lot upon which they are installed. In the event that a camera on a Home or Lot is positioned improperly, at the request of the Board of Directors or ARC, the Owner shall reposition the camera or remove it to comply with these rules and regulations. Cameras shall also not be operated remotely or otherwise controlled by their owner in any manner that may violate this rule.
-
-6. The Association's approval of installation of cameras shall not imply any responsibility whatsoever on the part of the Association, including but not limited to, its Board of Directors, ARC, staff, volunteers, officers, directors, employees, managers, managing agents, access control personnel, agents or legal representatives. The Association, as defined above, shall not be held liable, or otherwise responsible, for damaged property, illegal activity, personal injury or death.
-
-7. The Association's approval of a Homeowner's request to install cameras is not a guarantee of safety or protection of any person or property of any kind. All people on the Properties, including but not limited to, owners, tenants, guests, invitees, employees, management personnel, access control personnel, vendors and contractors, are strongly encouraged to provide for their own security measures and take proper safety precautions, as they each deem appropriate and necessary in their own discretion and judgment. Each person shall be responsible for providing his or her own insurance coverage for their health, safety and property.
-
 ### Sidewalks and Stepping Stones
 
 1. Sidewalks may be installed from the driveway to a side garage door or fence gate leading to the back yard.
@@ -708,18 +690,6 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 2. Sidewalks shall be concrete or pavers to match the driveway, be 30" to 36" in width, located a minimum of five feet (5') in from the property line and shall not interfere with approved drainage of the current or adjacent lots.
 
 3. Stepping stones are permitted with ARC approval and must be maintained.
-
-### Signage
-
-1. No permanent signage is permitted on any Lot.
-
-2. Short-term signage is allowed for a maximum of thirty (30) days, with the exception of realtor signage for the sale of a home, which may remain for the duration of the listing period.
-
-3. All signage must be professionally made and maintained in good condition.
-
-4. Political signs must comply with all applicable laws and may only be displayed during the time periods allowed by law.
-
-5. No signage may be placed on common property without express written permission from the Board of Directors.
 
 ### Skylights
 
