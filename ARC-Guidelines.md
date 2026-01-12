@@ -69,7 +69,7 @@ To ensure the preservation of the existing design and to prevent the introductio
 
 The Architectural Control Committee is responsible for reviewing all Architectural Alteration Applications made by residents for improvements to the exterior of the house or lot. The Board also reviews Architectural Guidelines and recommends changes and/or additions to the Board of Directors for adoption.
 
-To the extent that any government ordinance, building code or regulation requires a more restrictive standard than that found in these Guidelines, the government standards shall prevail. To the extent that any government ordinance, building code or regulation is less restrictive than these Guidelines and any standards contained herein, or the Declaration, these Architectural Guidelines and the Declaration shall prevail.
+To the extent that any government ordinance, building code or regulation requires a more restrictive standard than that found in these Guidelines, the government standards shall prevail. To the extent that Florida statutes limit the Association's authority to regulate certain items or installations, such statutes shall prevail.
 
 Nothing contained in these Guidelines shall obligate any agency, governmental or otherwise to approve plans submitted, nor shall the approval of the ARC be construed as meeting either the requirements of Lake County or any governmental agency required for approval.
 
@@ -545,7 +545,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 1. Lawns shall be maintained in accordance with adopted policies that define the minimum community standards.
 
-2. All Lots shall have grassed front, side and rear lawns.
+2. All Lots shall have grassed front and side lawns. Rear yards remain subject to drainage requirements.
 
 3. No gravel or similar type lawns will be permitted.
 
@@ -579,7 +579,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 ### Outbuildings, Sheds and Storage Containers
 
-1. No temporary outbuildings, sheds, or other outdoor storage containers shall be permitted on any Lots. Exceptions may be approved by the ARC.
+1. Sheds and storage containers visible from streets, adjacent parcels, or common areas require ARC approval.
 
 ### Play Structures, Recreational Equipment and Toys
 
