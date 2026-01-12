@@ -2,7 +2,7 @@
 # ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
 
 **Adopted:** September 17, 2020  
-**Revision Date:** Jan 9, 2026
+**Revision Date:** Jan 12, 2026
 
 ---
 
@@ -52,7 +52,7 @@
    - [Sidewalks and Stepping Stones](#sidewalks-and-stepping-stones)
    - [Skylights](#skylights)
    - [Solar Panels and Solar Collectors](#solar-panels-and-solar-collectors)
-   - [Storm/Hurricane Shutters](#stormhurricane-shutters)
+   - [Hurricane Protection](#hurricane-protection)
    - [Swimming Pools and Spas](#swimming-pools-and-spas)
    - [Temporary Structures](#temporary-structures)
    - [Water Softeners](#water-softeners)
@@ -389,15 +389,17 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
 
 3. If using landscape for screening the tank, Owner shall install a landscape buffer or other visual barrier to screen tank from view of the street and other properties. Plants that are a minimum of three feet tall and that will reach a maximum 80% capacity within 12 months shall be installed and allowed to grow to the height of the gas tank. When the tank height is attained, the plants will then be properly trimmed and maintained at that height. Any dead plants shall be replaced immediately with the same type of plant of similar height.
 
-4. Separate and apart from the foregoing, pursuant to the Declaration, other than one (1) portable propane tank for use with an outdoor barbeque grill, no oil tanks or bottled gas tanks shall be allowed on any Lot without the express written consent of the ARC and such tanks shall be located so they cannot be seen from other Lots, Common Area or Streets.
+4. Separate and apart from the foregoing, pursuant to the Declaration, other than one (1) portable propane tank for use with an outdoor barbeque grill, no oil tanks or bottled gas tanks shall be allowed on any Lot without the express written consent of the ARC and such tanks shall be located so they cannot be seen from other Lots, Common Area or Streets. **Exception:** Fuel storage tanks installed in conjunction with an exterior fixed generator for hurricane protection purposes are permitted per Florida House Bill 293, subject to applicable building codes and screening requirements.
 
 ### Generators
 
 1. Permanent or hard wired generators may be installed and mounted on a concrete pad at the side/rear of the house. These generators are normally hard wired to the house's electrical system and run off of propane.
 
-2. The generator shall be installed in the back of the house or on the side with proper screening – i.e. a fence.
+1. Permanent or hard wired generators may be installed and mounted on a concrete pad at the side/rear of the house. These generators are normally hard wired to the house's electrical system and run off of propane or natural gas.
 
-3. Generators shall be screened from view from the street with shrubs or other landscaping under the same guidelines as those for screening swimming pool equipment.
+2. The generator shall be installed in the back of the house or on the side with proper screening – i.e. a fence or landscaping.
+
+3. Generators shall be screened from view from the street with shrubs, landscaping, or fencing under the same guidelines as those for screening swimming pool equipment.
 
 4. The generator enclosure box shall be painted to match the exterior body color of the house unless located within a fenced yard.
 
@@ -697,36 +699,75 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 ### Solar Panels and Solar Collectors
 
-1. **Consolidated Requirements:** This section governs all solar energy devices including solar panels, solar collectors, and related equipment. Any installation requires prior written approval from the ARC.
+1. **Consolidated Requirements:** This section governs all solar energy devices including solar panels, solar collectors, and related equipment. An Alteration Application should be submitted to the ARC prior to installation. Applications that conform to these specifications and Florida Statute 163.04 shall be approved.
 
 2. **Roof-Mounted Solar Equipment:**
    - Solar panels and collectors must be flush mounted on the roof
-   - Equipment should be located on rear and side roofs whenever possible and should not be installed so as to be visible from the street
-   - All roof-mounted solar equipment (excluding the solar panels themselves) must match the roof color
-   - Solar panels and related appurtenances and equipment shall be designed and constructed to appear as an integrated part of the building's architecture
-   - This shall generally mean that the panels shall be roof mounted so that the top surface is flush with the roof surface with all appurtenances recessed into the building's attic
-   - All pipes must be of a color to blend with the roof shingles and color of house
+   - Equipment should be located on rear and side roofs whenever possible; however, the Association cannot require placement that would impair the effective operation of the solar collectors
+   - All roof-mounted solar equipment (excluding the solar panels themselves) should match the roof color when possible
+   - Solar panels and related appurtenances and equipment should be designed to appear as an integrated part of the building's architecture when feasible
+   - All pipes should be of a color to blend with the roof shingles and color of house
    - Note: Roof mounted solar collectors and equipment may void builder warranties and/or the roof warranty
 
 3. **Ground-Mounted Solar Equipment:**
-   - Yard mounted solar collectors are allowed only within a fenced area of the yard
-   - Ground-mounted equipment shall not exceed the height of the fence
-   - Must be screened from view from the street
+   - Yard mounted solar collectors are allowed within a fenced area of the yard
+   - Ground-mounted equipment should be screened from view from the street when feasible without impairing effective operation
 
 4. **General Requirements:**
    - All installations must meet applicable building and electrical codes
    - Equipment must be maintained in good working order
    - Any damaged or non-functional equipment must be repaired or removed within 30 days
 
-### Storm/Hurricane Shutters
+### Hurricane Protection
 
-1. Permanently installed shutters may be accordion or roll-up style and must be approved by the ARC.
+#### Covered Hurricane Protection Measures
 
-2. Temporary shutters include Lexan panels or similar, aluminum panels and fabric panels. In the event of an actual storm event causing substantial damage to the house, homeowner may request in writing, for an extension to this time period if the repairs and restoration of the house require that the panels remain attached for a longer period of time.
+Hurricane protection includes, but is not limited to:
+- Roof systems recognized by the Florida Building Code meeting ASCE 7-22 standards
+- Permanent fixed storm shutters (accordion, colonial, Bahama, or panel style)
+- Roll-down track storm shutters
+- Impact-resistant windows and doors
+- Polycarbonate panels and Lexan panels
+- Reinforced garage doors
+- Erosion controls
+- Exterior fixed generators (see also Generators section)
+- Fuel storage tanks for generators (see also Gas Tanks section)
 
-3. Shutters may not be closed or installed at any time other than during a storm event.
+#### Specifications for Hurricane Protection Installations
 
-4. Under no circumstances may storm shutters or protective panels be used as a routine security measure.
+1. **Storm Shutters - Permanent:**
+   - Accordion, roll-down, colonial, Bahama, or panel style shutters are permitted
+   - Color shall match or complement the exterior trim color of the home
+   - All installations must meet Florida Building Code requirements for wind resistance
+
+2. **Storm Shutters - Temporary:**
+   - Temporary shutters include Lexan panels, aluminum panels, polycarbonate panels, and fabric panels
+   - Temporary shutters may only be installed when a Tropical Storm Watch or higher has been issued for Lake County, or when a named storm is forecast to impact the area within 72 hours
+   - Temporary shutters must be removed within fourteen (14) days after the storm event has passed
+   - In the event of an actual storm event causing substantial damage to the house, homeowner may request in writing for an extension if repairs require that panels remain attached for a longer period
+
+3. **Impact-Resistant Windows and Doors:**
+   - Must meet Florida Building Code requirements
+   - Frame colors shall match or be substantially similar to existing window/door frames, or match the home's trim color
+   - See also Windows section for additional requirements
+
+4. **Reinforced Garage Doors:**
+   - Must meet Florida Building Code wind load requirements
+   - Style and color shall be substantially similar to original garage doors or complement the home's exterior
+
+5. **Erosion Controls:**
+   - Must not adversely affect drainage on neighboring properties
+   - Must comply with all applicable environmental regulations
+
+#### General Requirements
+
+1. All hurricane protection installations must comply with the Florida Building Code and obtain all required permits.
+
+2. Applications for hurricane protection that conform to these specifications shall be approved.
+
+3. Homeowners are responsible for maintaining all hurricane protection equipment in good working order.
+
+4. Under no circumstances may storm shutters or protective panels be used as a routine security measure or remain closed/installed outside of storm events (except for impact-resistant windows and doors which are permanent installations).
 
 ### Swimming Pools and Spas
 
@@ -788,11 +829,13 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 1. Originally installed windows may be replaced with windows of similar style. Replacement window frames shall match existing window frames unless all windows in the home are being replaced at the same time in which instance a request to change style or color shall be considered by the ARC.
 
-2. Owners may request to install energy conservation films on windows. Window tinting film applied to the interior of the windows shall be gray in color with no more than 21% solar reflectance and no less than 30% light transmittance.
+2. **Impact-Resistant Windows and Doors:** Impact-resistant windows and doors that meet Florida Building Code requirements are permitted. Frame colors shall match or be substantially similar to existing frames, or match the home's trim color. All installations must obtain required permits.
 
-3. The degree of darkness allowed for non-reflective tinting shall remain with the ARC on a case by case basis. All tinting requests must be accompanied by a brochure or manufacturer's description. All requests must include a sample of the material to be used. This sample will remain with the application and will not be returned.
+3. Owners may request to install energy conservation films on windows. Window tinting film applied to the interior of the windows shall be gray in color with no more than 21% solar reflectance and no less than 30% light transmittance.
 
-4. No silver, gold or bronze reflective colors are allowed. No reflective tinting or mirror finishes (to include aluminum foil) will be permitted.
+4. The degree of darkness allowed for non-reflective tinting shall remain with the ARC on a case by case basis. All tinting requests must be accompanied by a brochure or manufacturer's description. All requests must include a sample of the material to be used. This sample will remain with the application and will not be returned.
+
+5. No silver, gold or bronze reflective colors are allowed. No reflective tinting or mirror finishes (to include aluminum foil) will be permitted.
 
 ---
 
@@ -811,4 +854,4 @@ Approved home paint schemes can be found at:
 https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
 
 ### Appendix B: Approved Paver Patterns
-[Reference to separate document: approved_paver_driveway_patterns.pdf]
+See the approved paver patterns document in the HOA documents.
