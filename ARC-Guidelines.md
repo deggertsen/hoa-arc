@@ -104,11 +104,67 @@ The ARC has the right to modify, revise, add, delete or make any changes to thes
 3. Incomplete applications will be "rejected" and not be considered until resubmitted with all the necessary information for the ARC to make a decision.
 4. Pursuant to the Governing Documents, the ARC shall have thirty (30) days after receipt of a properly completed Alteration Application to approve or reject any such application, and if not approved within such thirty (30) day period, said application shall be deemed rejected.
 
-When applicable, each application must include:
-1. Copy of the lot survey with the location of the alteration clearly drawn and labeled.
-2. Vendor specifications or proposal showing the nature, kind, shape, height, materials and color to be used and the location of the proposed alteration.
-3. Color samples where applicable.
-4. Color picture or vendor brochure showing what the item will look like when completed.
+Each application must include the documentation specified for that alteration type in the table below. **Submitting incomplete documentation will result in rejection of the application.**
+
+### Documentation Requirements by Alteration Type
+
+| Alteration Type | Lot Survey | Vendor Specs | Color Samples | Photo/Brochure |
+|-----------------|:----------:|:------------:|:-------------:|:--------------:|
+| Air Conditioners (new location) | ✓ | ✓ | — | ✓ |
+| Antenna/Satellite Dishes | ✓ | ✓ | — | ✓ |
+| Carriage Lights | — | ✓ | ✓ | ✓ |
+| Decks and Patios | ✓ | ✓ | ✓ | ✓ |
+| Doors (replacement) | — | ✓ | ✓ | ✓ |
+| Driveways (pavers/extensions) | ✓ | ✓ | ✓ | ✓ |
+| Exterior Painting | — | — | ✓ | — |
+| Fencing | ✓ | ✓ | ✓ | ✓ |
+| Garage Doors (replacement) | — | ✓ | ✓ | ✓ |
+| Gas Tanks/Propane | ✓ | ✓ | — | — |
+| Generators | ✓ | ✓ | ✓ | ✓ |
+| Gutters | — | ✓ | ✓ | — |
+| House Numbers (changes) | — | ✓ | ✓ | ✓ |
+| Hurricane Protection (permanent) | — | ✓ | ✓ | ✓ |
+| Landscape Edging/Borders | — | ✓ | ✓ | ✓ |
+| Landscape Lighting | — | ✓ | — | ✓ |
+| Landscaping (major changes) | ✓ | — | — | ✓ |
+| Landscaping (Florida-Friendly) | ✓ | ✓ | — | ✓ |
+| Lightning Rods | — | ✓ | — | ✓ |
+| Outbuildings/Sheds | ✓ | ✓ | ✓ | ✓ |
+| Play Structures | ✓ | ✓ | ✓ | ✓ |
+| Rain Barrels | — | ✓ | ✓ | ✓ |
+| Roofing (shingle replacement) | — | ✓ | ✓ | ✓ |
+| Screen Enclosures/Sunrooms | ✓ | ✓ | ✓ | ✓ |
+| Screen/Storm Doors | — | ✓ | ✓ | ✓ |
+| Screened Entry | — | ✓ | ✓ | ✓ |
+| Sidewalks/Stepping Stones | ✓ | ✓ | ✓ | ✓ |
+| Skylights | ✓ | ✓ | — | ✓ |
+| Solar Panels | ✓ | ✓ | — | ✓ |
+| Swimming Pools/Spas | ✓ | ✓ | — | ✓ |
+| Trees (planting/removal) | ✓ | — | — | ✓ |
+| Trellises/Arbors/Pergolas | ✓ | ✓ | ✓ | ✓ |
+| Water Softeners | ✓ | ✓ | — | — |
+| Windows (replacement) | — | ✓ | ✓ | ✓ |
+| Window Tinting | — | ✓ | ✓ | ✓ |
+
+**Legend:**
+- **✓** = Required
+- **—** = Not required
+
+**Documentation Descriptions:**
+1. **Lot Survey:** Copy of your lot survey with the alteration location clearly drawn and labeled, showing distances to property lines and setbacks.
+2. **Vendor Specs:** Vendor specifications or proposal showing the nature, kind, shape, height, dimensions, materials, and installation details.
+3. **Color Samples:** Physical color samples or paint chips showing actual colors to be used (photos of samples are not acceptable for paint).
+4. **Photo/Brochure:** Color picture, catalog image, or vendor brochure showing what the finished item will look like.
+
+**Like-for-Like Replacements:**
+When replacing an existing item with one of identical style, material, and color (e.g., same shingle color, same fence style), submit the following:
+1. Completed Alteration Application describing the replacement
+2. Photo of the existing item being replaced
+3. Confirmation that the replacement matches the original in style, material, and color
+
+**Notes:**
+- For alterations not listed above, contact the Community Manager to determine required documentation.
+- The ARC reserves the right to request additional documentation if needed to make a decision.
 
 ---
 
@@ -651,29 +707,27 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 2. If the roof is screened, it shall be charcoal in color.
 
-3. Framing must be anodized or electrostatically painted aluminum to match the framing of windows on the Home.
+3. Screening shall be charcoal and of standard mesh size. No opaque or decorative screening is permitted.
 
-4. Screening shall be charcoal and of standard mesh size. No opaque or decorative screening is permitted.
+4. Installation will meet all county and state building codes for homes within "C" Wind Exposure Zones and be designed and built to withstand 130 mile per hour winds.
 
-5. Installation will meet all county and state building codes for homes within "C" Wind Exposure Zones and be designed and built to withstand 130 mile per hour winds.
+5. All support cables, screws and fasteners shall be of a non-corrosive material such as stainless steel.
 
-6. All support cables, screws and fasteners shall be of a non-corrosive material such as stainless steel.
+6. Structural gutters may be installed but where necessary, must be adjusted to tie into existing home gutters—runoff must be directed in a manner that will not negatively affect neighboring property or common property.
 
-7. Structural gutters may be installed but where necessary, must be adjusted to tie into existing home gutters—runoff must be directed in a manner that will not negatively affect neighboring property or common property.
+7. Aluminum kick plates, not to exceed sixteen (16") inches are allowed on screen enclosures including screen doors. Decorative grills may not be installed on screen doors.
 
-8. Aluminum kick plates, not to exceed sixteen (16") inches are allowed on screen enclosures including screen doors. Decorative grills may not be installed on screen doors.
+8. Sun room walls shall have a stucco finish on the exterior to match the existing house and will be constructed at a height not to exceed thirty-six inches (36"). All construction must be in conformance with the applicable building codes.
 
-9. Sun room walls shall have a stucco finish on the exterior to match the existing house and will be constructed at a height not to exceed thirty-six inches (36"). All construction must be in conformance with the applicable building codes.
+9. Vinyl windows (clear or light grey) will be allowed with frames that match the color of the existing window frames. Sample of light grey tint shall be included with application.
 
-10. Vinyl windows (clear or light grey) will be allowed with frames that match the color of the existing window frames. Sample of light grey tint shall be included with application.
+10. Roof line may not exceed the height of the house.
 
-11. Roof line may not exceed the height of the house.
+11. Gable style roofs that are constructed of Elite style insulated aluminum panels will not be permitted unless the frame is bronze. Frame and roof of Elite style insulated aluminum roofs must match in color if the top of the roof will be visible to the streets or neighboring properties.
 
-12. Gable style roofs that are constructed of Elite style insulated aluminum panels will not be permitted unless the frame is bronze. Frame and roof of Elite style insulated aluminum roofs must match in color if the top of the roof will be visible to the streets or neighboring properties.
+12. Exterior of the enclosure must be landscaped if not located within a fenced area.
 
-13. Exterior of the enclosure must be landscaped if not located within a fenced area.
-
-14. Irrigation systems may require modification to ensure 100% coverage of the property. This should be a part of the Alteration Application.
+13. Irrigation systems may require modification to ensure 100% coverage of the property. This should be a part of the Alteration Application.
 
 ### Screen and Storm Doors
 
