@@ -320,7 +320,7 @@ When replacing an existing item with one of identical style, material, and color
 
 3. Alteration Applications submitted without color samples will be returned. No house may have more than four colors (base, trim, doors, and shutters). Garage doors shall not be painted the same as the base color of the house. All older homes would be grandfathered in. This change would apply to all new applications for paint schemes to the Architecture Review Committee.
 
-4. The body of the house (base color) must have a flat, eggshell, or satin finish, no gloss or high gloss finishes are permissible. If an Owner is proposing to paint doors and trims with gloss or high gloss, this needs to be noted on the Alteration Application.
+4. The body of the house (base color) must have a satin, flat or eggshell finish, no gloss or high gloss finishes are permissible. If an Owner is proposing to paint doors and trims with gloss or high gloss, this needs to be noted on the Alteration Application.
 
 5. There must be a minimum distance of one home to either side and in front of the applicant's home before a color combination can be repeated.
 
