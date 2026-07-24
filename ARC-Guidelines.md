@@ -2,7 +2,7 @@
 # ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
 
 **Adopted:** September 17, 2020  
-**Revision Date:** Jan 12, 2026
+**Revision Date:** July 2026
 
 ---
 
@@ -751,6 +751,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 ### Hurricane Protection
 
 1. Hurricane protection measures, including storm shutters, impact-resistant windows and doors, and reinforced garage doors, are permitted with ARC approval. All installations must meet Florida Building Code requirements.
+
 2. Permanent storm shutters shall match or complement the home's exterior color. Temporary shutters may be installed 72 hours before an expected storm and must be removed within 14 days after.
 
 ### Swimming Pools and Spas
