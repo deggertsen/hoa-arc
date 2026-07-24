@@ -44,7 +44,6 @@
    - [Rain Barrels & Rain Chains](#rain-barrels--rain-chains)
    - [Reflectors](#reflectors)
    - [Roofs](#roofs)
-   - [Front Roof Changes](#front-roof-changes)
    - [Roof Extensions/Covering](#roof-extensionscovering)
    - [Screen Enclosures Patios and Sunrooms](#screen-enclosures-patios-and-sunrooms)
    - [Screen and Storm Doors](#screen-and-storm-doors)
@@ -343,7 +342,7 @@ All fences must comply with the following setback requirements:
 a. **Privacy fences** installed for the purpose of enclosing the backyard:
    - Are to be six foot (6') high tongue and groove style white or beige PVC
    - Must comply with setback requirements stated above
-   - The fence must be installed immediately inside the property line. Also remember that the fence is on your property and you are responsible to maintain the property up to the property line. This means that you are responsible for trimming the grass on the outside of the fence up to your property line. (Exception – when aluminum picket fence is placed around the perimeter of a swimming pool to meet county code.)
+   - The fence must be installed immediately inside the property line. Also remember that the fence is on your property and you are responsible to maintain the property up to the property line. This means that you are responsible for trimming the grass on the outside of the fence up to your property line.
 
 b. **Aluminum picket fence** shall be four foot (4') or five foot (5') high black aluminum open picket style commonly referred to as the Key West style; Maximum five (5) feet in height.
 
@@ -469,7 +468,7 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
 
 4. No more than 3 individual inflatable display items are permitted for any holiday.
 
-5. Holiday decorations may be placed on the exterior of the lot fifteen (15) days prior to the special day and must be removed five (15) days after the special day.
+5. Holiday decorations may be placed on the exterior of the lot fifteen (15) days prior to the special day and must be removed fifteen (15) days after the special day.
 
 ### House Numbers
 
