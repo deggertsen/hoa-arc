@@ -202,13 +202,13 @@ When replacing an existing item with one of identical style, material, and color
 
 4. All satellite dishes must be no larger than thirty-nine (39") inches in diameter.
 
-5. All antennae and/or satellite dishes should be either ground mounted on a stand-alone pole or mounted on the rear wall or rear sidewall of the house so as to not be visible from street.
+5. All antennae and/or satellite dishes should be either ground mounted on a stand-alone pole or mounted on the rear wall or rear sidewall of the house so as to not be visible from the street.
 
 6. Satellite dishes that are ground mounted shall be installed at no greater distance than eight (8') feet from the house and preferably in a screened or fenced area.
 
 7. It is respectfully requested that satellite dishes NOT be placed on top of roofs. Satellite dishes shall not be permitted to be installed on top of roofs. Notwithstanding, the ARC may grant a waiver if and only if the roof is the ONLY location that will provide proper reception. If you wish to apply for installation of a satellite dish on the roof, please include in your application a copy of the proposed location and a letter from the installer stating why the roof is the necessary location for installation. Any installation on roof tops should be clamped on and not screwed into the structure as it may automatically void any builder and/or roof warranties.
 
-8. Installation of satellite dish shall be in accordance with the current rules of the FCC, placement shall be as inconspicuous as possible. Wiring related to the installation should be aesthetically pleasing and secured in a professional manner.
+8. Installation of a satellite dish shall be in accordance with the current rules of the FCC, placement shall be as inconspicuous as possible. Wiring related to the installation should be aesthetically pleasing and secured in a professional manner.
 
 9. All installations shall meet the minimum wind load requirements of the Florida Building Code (latest edition) concerning wind resistance and other applicable requirements.
 
@@ -218,7 +218,7 @@ When replacing an existing item with one of identical style, material, and color
 
 ### Canopies
 
-1. The installation of a canopy (fabric gazebo) is not permitted. Exception will be for private parties and such fixtures or decorations may be installed 24 hours prior to and must be removed within 24 hours of the party. No other type of sun shade, tent or canopy cover will be approved.
+1. The installation of a canopy (fabric gazebo) is not permitted. Exceptions will be for private parties and such fixtures or decorations may be installed 24 hours prior to and must be removed within 24 hours of the party. No other type of sun shade, tent or canopy cover will be approved.
 
 ### Carriage Lights
 
@@ -254,7 +254,7 @@ When replacing an existing item with one of identical style, material, and color
 
 6. Invisible fences need approval prior to installation.
 
-7. Invisible fencing wiring must be buried no less than six inches (6") inside the lot line. No alterations of the yard grade shall be permitted with the installation of such system.
+7. Invisible fencing wiring must be buried no less than six inches (6") inside the lot line. No alterations of the yard grade shall be permitted with the installation of such a system.
 
 ### Doors
 
@@ -377,7 +377,7 @@ d. Once approved, the installation must be completed within 90 days.
 
 e. Fencing must remain in "like new" condition at all times. (See Definitions section for detailed maintenance standards)
 
-f. It is recommended that a twelve inch (12") wide mulched maintenance strip be installed and maintained beginning on the property line and continuing under the fence into your yard. This will make it easier to maintain the fence without causing damage and reduces or eliminates the need to trim the grass on the outside of the fence.
+f. It is recommended that a twelve inch (12") wide mulched maintenance strip be installed and maintained beginning on the property line and continuing under the fence into your yard. This will make it easier to maintain the fence without causing damage and reduce or eliminate the need to trim the grass on the outside of the fence.
 
 g. Fences must have the prior approval of the ARC and must be constructed of materials described above and shall be built to conform to all manufacturers specifications.
 
@@ -391,11 +391,11 @@ k. It is recommended that fences not be installed in drainage or utility easemen
 
 l. Should the Association, City or County be required to correct a drainage or utility situation either above or underground on lots affected by swales, rear yard drains or easements, the homeowner is responsible for all costs associated with the removal and reinstallation of the fence installed in said easement.
 
-m. Only the finished of "smooth" side of the fence may face outward. No posts or stringers may be visible from the outside of the fence.
+m. Only the finish of the "smooth" side of the fence may face outward. No posts or stringers may be visible from the outside of the fence.
 
 n. See Fence Setback Requirements section above for detailed setback rules.
 
-o. See Corner Lots section above for corner lot fence placement formula.
+o. See Corner Lots section above for the corner lot fence placement formula.
 
 p. Only where easements or swales exist, fences will be installed on the property line. Alleyways between fences will not be permitted. (Exception – when aluminum picket fence is placed around the perimeter of a swimming pool to meet county code.)
 
@@ -814,8 +814,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 ## Appendices
 
 ### Appendix A: Approved Paint Colors
-Approved home paint schemes can be found at:
-https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
+Approved home paint schemes can be found at: https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
 
 ### Appendix B: Approved Paver Patterns
 See the approved paver patterns document in the HOA documents.
