@@ -411,10 +411,6 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
 
 1. Flagpoles and flags shall be allowed per Florida Statute 720.304.
 
-2. Flags shall be replaced if faded, tattered, or in poor condition.
-
-3. Flagpoles and flag attachments will be kept in a clean and maintained condition.
-
 ### Garage
 
 1. No garage shall be enclosed or converted into a living area and must at all times be used as a garage for car storage or storage of Owners personal property.
@@ -445,11 +441,9 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
 
 3. If using landscape for screening the tank, Owner shall install a landscape buffer or other visual barrier to screen tank from view of the street and other properties. Plants that are a minimum of three feet tall and that will reach a maximum 80% capacity within 12 months shall be installed and allowed to grow to the height of the gas tank. When the tank height is attained, the plants will then be properly trimmed and maintained at that height. Any dead plants shall be replaced immediately with the same type of plant of similar height.
 
-4. Separate and apart from the foregoing, pursuant to the Declaration, other than one (1) portable propane tank for use with an outdoor barbeque grill, no oil tanks or bottled gas tanks shall be allowed on any Lot without the express written consent of the ARC and such tanks shall be located so they cannot be seen from other Lots, Common Area or Streets. **Exception:** Fuel storage tanks installed in conjunction with an exterior fixed generator for hurricane protection purposes are permitted per Florida House Bill 293, subject to applicable building codes and screening requirements.
+4. Separate and apart from the foregoing, pursuant to the Declaration, other than one (1) portable propane tank for use with an outdoor barbeque grill, no oil tanks or bottled gas tanks shall be allowed on any Lot without the express written consent of the ARC and such tanks shall be located so they cannot be seen from other Lots, Common Area or Streets.
 
 ### Generators
-
-1. Permanent or hard wired generators may be installed and mounted on a concrete pad at the side/rear of the house. These generators are normally hard wired to the house's electrical system and run off of propane.
 
 1. Permanent or hard wired generators may be installed and mounted on a concrete pad at the side/rear of the house. These generators are normally hard wired to the house's electrical system and run off of propane or natural gas.
 
@@ -500,10 +494,7 @@ The Association reserves the right to prohibit fencing of certain lots due to ae
    - Maintenance of the lawn and landscaping shall mean at a minimum, upkeep, maintenance and preservation of that which was initially installed by the builder of the house on the Lot.
    - Any Lot owner who wishes to modify and change the landscaping installed by the builder of the house on his Lot, to a Xeriscape or low water-usage design must first obtain approval from the ARC. The Alteration Application requesting this approval must be accompanied by a landscape design that is a certified Florida-friendly yard under the Florida Yards and Neighborhoods (FYN) program. Information about this program can be obtained through the Lake County website online.
 
-3. **Florida-Friendly Landscaping:** In accordance with Florida Statute 720.3075, homeowners have the right to install Florida-friendly landscaping. ARC approval is required for all landscaping projects to ensure that the proposed landscaping complies with Florida Statute requirements and community aesthetic standards. Applications should include:
-   - Plant selection list demonstrating use of Florida-friendly plants
-   - Design plan showing water conservation measures
-   - Certification from Florida Yards and Neighborhoods (FYN) program if applicable
+3. Florida-friendly landscaping is permitted in accordance with Florida Statute 720.3075.
 
 #### Berms/Drainage Swales
 
@@ -753,75 +744,14 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 ### Solar Panels and Solar Collectors
 
-1. **Consolidated Requirements:** This section governs all solar energy devices including solar panels, solar collectors, and related equipment. An Alteration Application should be submitted to the ARC prior to installation. Applications that conform to these specifications and Florida Statute 163.04 shall be approved.
+1. Solar panels and collectors are permitted in accordance with Florida Statute 163.04. ARC approval is required prior to installation.
 
-2. **Roof-Mounted Solar Equipment:**
-   - Solar panels and collectors must be flush mounted on the roof
-   - Equipment should be located on rear and side roofs whenever possible; however, the Association cannot require placement that would impair the effective operation of the solar collectors
-   - All roof-mounted solar equipment (excluding the solar panels themselves) should match the roof color when possible
-   - Solar panels and related appurtenances and equipment should be designed to appear as an integrated part of the building's architecture when feasible
-   - All pipes should be of a color to blend with the roof shingles and color of house
-   - Note: Roof mounted solar collectors and equipment may void builder warranties and/or the roof warranty
-
-3. **Ground-Mounted Solar Equipment:**
-   - Yard mounted solar collectors are allowed within a fenced area of the yard
-   - Ground-mounted equipment should be screened from view from the street when feasible without impairing effective operation
-
-4. **General Requirements:**
-   - All installations must meet applicable building and electrical codes
-   - Equipment must be maintained in good working order
-   - Any damaged or non-functional equipment must be repaired or removed within 30 days
+2. Equipment should be located on rear and side roofs when possible. The Association cannot require placement that would impair the effective operation per FS 163.04. All roof-mounted equipment (excluding panels) should match the roof color. Pipes should blend with roof and house color. All installations must meet applicable building and electrical codes. Equipment must be maintained in good working order.
 
 ### Hurricane Protection
 
-#### Covered Hurricane Protection Measures
-
-Hurricane protection includes, but is not limited to:
-- Roof systems recognized by the Florida Building Code meeting ASCE 7-22 standards
-- Permanent fixed storm shutters (accordion, colonial, Bahama, or panel style)
-- Roll-down track storm shutters
-- Impact-resistant windows and doors
-- Polycarbonate panels and Lexan panels
-- Reinforced garage doors
-- Erosion controls
-- Exterior fixed generators (see also Generators section)
-- Fuel storage tanks for generators (see also Gas Tanks section)
-
-#### Specifications for Hurricane Protection Installations
-
-1. **Storm Shutters - Permanent:**
-   - Accordion, roll-down, colonial, Bahama, or panel style shutters are permitted
-   - Color shall match or complement the exterior trim color of the home
-   - All installations must meet Florida Building Code requirements for wind resistance
-
-2. **Storm Shutters - Temporary:**
-   - Temporary shutters include Lexan panels, aluminum panels, polycarbonate panels, and fabric panels
-   - Temporary shutters may only be installed when a Tropical Storm Watch or higher has been issued for Lake County, or when a named storm is forecast to impact the area within 72 hours
-   - Temporary shutters must be removed within fourteen (14) days after the storm event has passed
-   - In the event of an actual storm event causing substantial damage to the house, homeowner may request in writing for an extension if repairs require that panels remain attached for a longer period
-
-3. **Impact-Resistant Windows and Doors:**
-   - Must meet Florida Building Code requirements
-   - Frame colors shall match or be substantially similar to existing window/door frames, or match the home's trim color
-   - See also Windows section for additional requirements
-
-4. **Reinforced Garage Doors:**
-   - Must meet Florida Building Code wind load requirements
-   - Style and color shall be substantially similar to original garage doors or complement the home's exterior
-
-5. **Erosion Controls:**
-   - Must not adversely affect drainage on neighboring properties
-   - Must comply with all applicable environmental regulations
-
-#### General Requirements
-
-1. All hurricane protection installations must comply with the Florida Building Code and obtain all required permits.
-
-2. Applications for hurricane protection that conform to these specifications shall be approved.
-
-3. Homeowners are responsible for maintaining all hurricane protection equipment in good working order.
-
-4. Under no circumstances may storm shutters or protective panels be used as a routine security measure or remain closed/installed outside of storm events (except for impact-resistant windows and doors which are permanent installations).
+1. Hurricane protection measures, including storm shutters, impact-resistant windows and doors, and reinforced garage doors, are permitted with ARC approval. All installations must meet Florida Building Code requirements.
+2. Permanent storm shutters shall match or complement the home's exterior color. Temporary shutters may be installed 72 hours before an expected storm and must be removed within 14 days after.
 
 ### Swimming Pools and Spas
 
@@ -847,29 +777,9 @@ Hurricane protection includes, but is not limited to:
 
 ### Temporary Structures
 
-1. **Portable Storage/Moving Containers:**
-   - Portable storage/moving containers (commonly known as PODS) or similar units are permitted for a maximum of one (1) month
-   - Must be placed on the homeowner's driveway only - not on streets or common areas
-   - Homeowners may request an extension from the ARC if needed
-   - Units must be maintained in good condition and not create a safety hazard
-
-2. **Construction Dumpsters:**
-   - Construction dumpsters are permitted for active construction projects for a maximum of one (1) month
-   - Must be placed on the homeowner's driveway only - not on streets or common areas
-   - Homeowners may request an extension from the ARC if construction requires additional time
-   - Dumpsters must be covered when not in active use to prevent debris from blowing
-
-3. **Temporary Shelters During Construction:**
-   - Temporary construction shelters, scaffolding, and protective coverings are permitted during active construction for a maximum of one (1) month
-   - Homeowners may request an extension from the ARC if construction requires additional time
-   - All temporary structures must meet applicable safety codes
-   - Must be removed immediately upon completion of construction
-
-4. **General Requirements for All Temporary Structures:**
-   - No temporary structure may block sidewalks, impede traffic, or create safety hazards
-   - All temporary structures must be properly secured against wind
-   - Homeowners are responsible for any damage caused by temporary structures
-   - Extensions beyond the initial time period must be requested in writing to the ARC
+1. Portable storage/moving containers and construction dumpsters are permitted for a maximum of one (1) month and must be placed on the driveway. Extension requests may be submitted to the ARC.
+2. Temporary construction shelters and scaffolding are permitted during active construction for a maximum of one (1) month.
+3. Temporary structures must not block sidewalks or create safety hazards, and must be secured against wind. Homeowners are responsible for any damage caused.
 
 ### Water Softeners
 
