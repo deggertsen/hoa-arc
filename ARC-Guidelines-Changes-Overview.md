@@ -199,4 +199,60 @@ Based on HOA Board feedback that the January 2026 revision introduced too many c
 
 ---
 
-*Document updated: July 2026*
+## August 2026 Board Review (Bill's Edits)
+
+The following changes were made after reviewing board member Bill's annotated edits on the Google Doc. Each change was reviewed via a structured align process between David and Celeste.
+
+### New Additions
+
+1. **Alteration Application Process:** Added step 5 - Project Completion Letter to be submitted by homeowner upon project completion
+2. **Access to Common Areas:** Added City of Minneola noise ordinance compliance to contractor conduct rules (6b)
+3. **Antenna/Satellite:** Changed detached equipment repair timeline from 72 hours to "immediately upon detachment"
+4. **Canopies:** Clarified removal deadline as "within 24 hours of the party end" (was ambiguous)
+5. **Decks/Patios:** Added City of Minneola Planning and Zoning approval requirement for slope/grade changes
+6. **Doors:** Added "Screen doors are allowed" clarification
+7. **Driveways:** Added handicap-accessible driveway extension allowance (4 ft per side, 8 ft total); allowed solid color paver borders (previously prohibited); added paver walkway UE restriction (max 36" width); added handicap-accessible exception for driveway expansion beyond garage lines
+8. **Garage:** Added requirement to paint replacement garage doors within 30 days; prohibited curtains on garage openings
+9. **Encroachment/Plantings:** Changed "potted plants" to "potted live plants"; allowed landscape planters with Florida-friendly landscaping on non-garage side; prohibited decorative pots and lawn ornaments in front
+10. **Exterior Painting:** Changed "older homes" to "phase 1 homes" for grandfathering; added satin as acceptable exterior finish
+11. **Fencing:** Changed "may not" to "shall not" for front yard fencing; added City of Minneola code reference for 6' max height; prohibited temporary fence removal except during approved construction; prohibited anchoring fences to retaining walls or other fences
+12. **Generators:** Fixed duplicate numbering (two items numbered "1")
+13. **Holiday Decorations:** Fixed typo "five (15) days" to "fifteen (15) days"
+14. **Buffer Landscaping:** Added 8' maximum hedge height
+15. **Landscape Lighting:** Added side of house as allowed installation area
+16. **Lawns:** Added artificial turf requires ARC approval; added drought-tolerant grass alongside St. Augustine
+17. **Play Structures:** Rewrote basketball goal rules - portable goals allowed on driveways at all times (must be sandbag-weighted, no grass); permanent goals still prohibited
+18. **Swimming Pools:** Added requirement to fence pool sites during construction
+19. **Exterior Maintenance:** Added FS 720.3033 reference for homeowner self-help maintenance rights
+
+### Simplified (Bill's Version Adopted)
+
+1. **Florida-Friendly Landscaping:** Condensed from detailed subsection with application requirements to single line referencing FS 720.3075
+2. **Solar Panels:** Condensed from 4 subsections to 2 points
+3. **Hurricane Protection:** Condensed from comprehensive multi-subsection format to 2 points
+
+### Cut (Not Adopted)
+
+1. **AC relocation note** - Already covered by existing "unless approved by the ARC" language
+2. **Nuisance pets/animal types** - City/county jurisdiction, not ARC
+3. **Move fence notice to Introduction** - TOC already points to Fencing section
+4. **Lumens restriction for holiday lights** - Existing nuisance clause covers it
+5. **Remove concrete as sidewalk option** - No clear rationale; concrete sidewalks standard
+6. **HB 293 exception in Gas Tanks** - Removed (consistent with July decision; Generators section covers this)
+
+### Kept As-Is
+
+1. **Flags maintenance items (2-3)** - Bill appeared to accidentally delete these; kept for community aesthetic enforcement
+2. **Documentation requirements table** - Bill approved with "Great Idea with the chart"
+
+### Application Form Changes (Tracked Separately)
+
+A separate file (`ARC-Application-Form-Changes.md`) was created to track changes needed on the ARC application form itself:
+- 90-day installation deadline notice
+- No temporary fence removal notice
+- Fence anchoring prohibition notice
+- Project Completion Letter inclusion
+
+---
+
+*Document updated: August 2026*
