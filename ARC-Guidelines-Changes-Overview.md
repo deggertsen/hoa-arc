@@ -255,4 +255,27 @@ A separate file (`ARC-Application-Form-Changes.md`) was created to track changes
 
 ---
 
-*Document updated: August 2026*
+## September 2026 Google Doc Sync
+
+The August 2026 Google Doc (`ARC-Guidelines (Aug 19, 2026)`) was compared word-by-word against the guidelines in this repository. The August 2026 board review content already matched; four non-formatting differences remained and are applied here.
+
+### Changes Applied
+
+1. **Access to Common Areas (5):** Cleanup deadline tightened from "within thirty (30) days" to "within fourteen (14) days" of project completion.
+2. **Antenna/Satellite Dishes (1):** Removed "All such equipment shall be subject to the approval of the ARC."
+3. **Antenna/Satellite Dishes:** Removed the requirement that antennae and satellite dishes be either ground mounted on a stand-alone pole or mounted on the rear wall or rear sidewall of the house so as to not be visible from the street. Remaining items renumbered.
+4. **Antenna/Satellite Dishes (6):** Removed "Satellite dishes shall not be permitted to be installed on top of roofs." The waiver provision for roof installation remains.
+
+### Not Applied (Formatting Only)
+
+The Google Doc renders numbered guidelines as bulleted lists, flattens the Documentation Requirements table into an indented grid, and uses underscore separators. The repository keeps the Markdown-native table, numbered lists, and heading structure.
+
+### Open Items
+
+The following work is tracked separately and is not part of this sync:
+- Security/Video Cameras and Exterior Recessed Lighting sections (removed January 2026, not present in the Google Doc).
+- ARC application form changes (`ARC-Application-Form-Changes.md`).
+
+---
+
+*Document updated: September 2026*

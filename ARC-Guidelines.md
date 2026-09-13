@@ -179,7 +179,7 @@ When replacing an existing item with one of identical style, material, and color
 
 4. Homeowners are responsible for any damages to the Common Areas and other Association property. Homeowner is responsible for restoring, re-grading, repairing & replacing any damaged grass, plants or irrigation on the common area or any adjoining Lots, caused by this construction.
 
-5. Owners are responsible for all cleanup of any improvement project. All debris, sod, soil, construction trash etc. shall be removed from the lot and the community within thirty (30) days of the completion of the project.
+5. Owners are responsible for all cleanup of any improvement project. All debris, sod, soil, construction trash etc. shall be removed from the lot and the community within fourteen (14) days of the completion of the project.
 
 6. Homeowners are responsible for the acts of their employees, subcontractors and any other persons or parties involved in construction or alteration of the home site. The responsibilities include but are not limited to the following:
    a. Ensuring that the construction site, community properties and roadways are kept clean and free of all debris and waste materials, and that stockpiles of unused materials are kept in a neat and orderly fashion.
@@ -196,7 +196,7 @@ When replacing an existing item with one of identical style, material, and color
 
 ### Antenna and Satellite Dishes
 
-1. This section shall apply to all outside antennas, antenna poles, antenna masts, electronic devices, satellite dish antennas or antenna towers. All such equipment shall be subject to the approval of the ARC. All antennas not covered by the Federal Communications Commission (FCC) rules are prohibited.
+1. This section shall apply to all outside antennas, antenna poles, antenna masts, electronic devices, satellite dish antennas or antenna towers. All antennas not covered by the Federal Communications Commission (FCC) rules are prohibited.
 
 2. No such equipment may interfere with the radio or television reception of other homes.
 
@@ -204,19 +204,17 @@ When replacing an existing item with one of identical style, material, and color
 
 4. All satellite dishes must be no larger than thirty-nine (39") inches in diameter.
 
-5. All antennae and/or satellite dishes should be either ground mounted on a stand-alone pole or mounted on the rear wall or rear sidewall of the house so as to not be visible from street.
+5. Satellite dishes that are ground mounted shall be installed at no greater distance than eight (8') feet from the house and preferably in a screened or fenced area.
 
-6. Satellite dishes that are ground mounted shall be installed at no greater distance than eight (8') feet from the house and preferably in a screened or fenced area.
+6. It is respectfully requested that satellite dishes NOT be placed on top of roofs. Notwithstanding, the ARC may grant a waiver if and only if the roof is the ONLY location that will provide proper reception. If you wish to apply for installation of a satellite dish on the roof, please include in your application a copy of the proposed location and a letter from the installer stating why the roof is the necessary location for installation. Any installation on roof tops should be clamped on and not screwed into the structure as it may automatically void any builder and/or roof warranties.
 
-7. It is respectfully requested that satellite dishes NOT be placed on top of roofs. Satellite dishes shall not be permitted to be installed on top of roofs. Notwithstanding, the ARC may grant a waiver if and only if the roof is the ONLY location that will provide proper reception. If you wish to apply for installation of a satellite dish on the roof, please include in your application a copy of the proposed location and a letter from the installer stating why the roof is the necessary location for installation. Any installation on roof tops should be clamped on and not screwed into the structure as it may automatically void any builder and/or roof warranties.
+7. Installation of satellite dish shall be in accordance with the current rules of the FCC, placement shall be as inconspicuous as possible. Wiring related to the installation should be aesthetically pleasing and secured in a professional manner.
 
-8. Installation of satellite dish shall be in accordance with the current rules of the FCC, placement shall be as inconspicuous as possible. Wiring related to the installation should be aesthetically pleasing and secured in a professional manner.
+8. All installations shall meet the minimum wind load requirements of the Florida Building Code (latest edition) concerning wind resistance and other applicable requirements.
 
-9. All installations shall meet the minimum wind load requirements of the Florida Building Code (latest edition) concerning wind resistance and other applicable requirements.
+9. Homeowners shall not permit their antennae and satellite dishes to fall into disrepair or to become a safety hazard, and shall be responsible for all maintenance, repair and replacement, and the correction of any potential safety hazard.
 
-10. Homeowners shall not permit their antennae and satellite dishes to fall into disrepair or to become a safety hazard, and shall be responsible for all maintenance, repair and replacement, and the correction of any potential safety hazard.
-
-11. If antennae or satellite dishes become detached, Homeowners shall remove or repair such detachment immediately upon detachment. If the detachment threatens safety, the Association may remove the antenna or satellite dish at the expense of the Owner, without prior notice.
+10. If antennae or satellite dishes become detached, Homeowners shall remove or repair such detachment immediately upon detachment. If the detachment threatens safety, the Association may remove the antenna or satellite dish at the expense of the Owner, without prior notice.
 
 ### Canopies
 
