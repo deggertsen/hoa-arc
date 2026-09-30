@@ -299,7 +299,7 @@ The following changes respond to a September 2026 board-member draft ("ARC final
 
 ### Modified
 
-1. **Encroachment and Plantings (3):** Now permits three (3) potted live plants (or four (4) live plants planted in the bed) and two (2) decorative ornaments in front of the home; ornaments capped at twenty-four inches (24") and large statues prohibited. Replaced the prior prohibition on decorative pots and lawn ornaments in front. Landscape planters on the non-garage side now expressly require ARC approval.
+1. **Landscaping (5) (relocated from Encroachment and Plantings):** Moved the potted-plants/ornaments item here, since that item governs an owner's own front and side yards rather than Association common grounds. It now permits three (3) potted live plants (or four (4) live plants planted in the bed) and two (2) decorative ornaments in front of the home; ornaments capped at twenty-four inches (24") and large statues prohibited. Replaced the prior prohibition on decorative pots and lawn ornaments in front. Landscape planters on the non-garage side now expressly require ARC approval.
 2. **Lawns (5):** Mulch/rock language clarified; gravel/rock color may now be white, gray, black, or tan, and the prior "with ARC approval" wording was removed.
 
 ### Declined (Repeat of August 2026 Cuts)
