@@ -2,7 +2,7 @@
 # ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
 
 **Adopted:** September 17, 2020  
-**Revision Date:** August 2026
+**Revision Date:** September 2026
 
 ---
 
@@ -103,7 +103,7 @@ The ARC has the right to modify, revise, add, delete or make any changes to thes
 2. A separate alteration application should be submitted for each exterior modification.
 3. Incomplete applications will be "rejected" and not be considered until resubmitted with all the necessary information for the ARC to make a decision.
 4. Pursuant to the Governing Documents, the ARC shall have thirty (30) days after receipt of a properly completed Alteration Application to approve or reject any such application, and if not approved within such thirty (30) day period, said application shall be deemed rejected.
-5. Upon project completion, the homeowner shall submit a signed Project Completion Letter to the ARC, confirming the work was completed in accordance with the approved plans and specifications.
+5. Upon project completion, the homeowner shall submit a signed Project Completion Letter to the ARC confirming the work was completed in accordance with the approved plans and specifications. The ARC may inspect the completed work, and any nonconforming work shall be corrected within thirty (30) days of written notice from the ARC.
 
 Each application must include the documentation specified for that alteration type in the table below. **Submitting incomplete documentation will result in rejection of the application.**
 
@@ -184,6 +184,8 @@ When replacing an existing item with one of identical style, material, and color
 6. Homeowners are responsible for the acts of their employees, subcontractors and any other persons or parties involved in construction or alteration of the home site. The responsibilities include but are not limited to the following:
    a. Ensuring that the construction site, community properties and roadways are kept clean and free of all debris and waste materials, and that stockpiles of unused materials are kept in a neat and orderly fashion.
    b. Prohibiting the consumption of alcoholic beverages, illegal drugs or other intoxicants that could hamper the safety or well-being of others on the site, and ensuring compliance with all applicable City of Minneola noise ordinances.
+
+7. Exterior construction, repair, and landscaping activity is permitted Monday through Saturday, 7:00 a.m. to dusk, and is not permitted on Sundays or federal holidays except for emergency repairs. This applies to work performed by the owner as well as by contractors and installers, and all work shall comply with applicable City of Minneola noise ordinances.
 
 ---
 
@@ -310,7 +312,7 @@ When replacing an existing item with one of identical style, material, and color
 
 2. Residents shall not put trees, bushes, plantings, bird baths, lawn ornaments, planters, bird feeders, flower pots, picnic tables, furniture, fences, walks, hedge enclosures and other types of groupings on common grounds or other Association property.
 
-3. A maximum of three (3) potted live plants are permitted in front of the house or in the rear of a home that is not screened with a fence or other approved screening such as landscaping. Landscape planters with Florida-friendly landscaping are permitted on the non-garage side of the house. Decorative pots and lawn ornaments are not permitted in front of the home.
+3. A maximum of three (3) potted live plants, or four (4) live plants planted in the bed, and two (2) decorative ornaments are permitted in front of the house or in the rear of a home that is not screened with a fence or other approved screening such as landscaping. Ornaments shall not exceed twenty-four (24) inches in height; large statues are not permitted. Landscape planters with Florida-friendly landscaping are permitted on the non-garage side of the house and require ARC approval.
 
 ### Exterior Painting and Approved Color Schemes
 
@@ -325,6 +327,8 @@ When replacing an existing item with one of identical style, material, and color
 5. There must be a minimum distance of one home to either side and in front of the applicant's home before a color combination can be repeated.
 
 6. **Approved paint schemes can be found at:** https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/minneola/fl/reserve-at-minneola/
+
+7. Each home shall be painted with a single approved paint scheme. Colors from different approved schemes shall not be combined.
 
 ### Fencing
 
@@ -440,6 +444,10 @@ Replacement of garage doors shall be painted to match the home's approved color 
 
 4. If plantings are used for screening, "adequate screening' shall be plantings which initially (i.e. when first planted or installed) screens a minimum of eighty percent (80%) and which completely screens the cans or equipment within one (1) year from the date of approval.
 
+5. Trash and recycling containers shall be screened from view from the street, except when placed at the curb for collection, and shall be returned to their screened location within twenty-four (24) hours after collection. Acceptable screening is described in items 1 through 4.
+
+6. There shall be no burning of trash or any other waste materials at any time.
+
 ### Gas Tanks (Propane and/or Natural)
 
 1. Preferable installation is to have gas tanks buried. Gas tanks installed above ground shall meet applicable building code requirements.
@@ -475,6 +483,8 @@ Replacement of garage doors shall be painted to match the home's approved color 
 
 5. Holiday decorations may be placed on the exterior of the lot fifteen (15) days prior to the special day and must be removed fifteen (15) days after the special day.
 
+6. Permanently installed exterior lighting is governed by the Lighting guidelines and is not exempt from ARC approval as holiday lighting.
+
 ### House Numbers
 
 1. To aid emergency personnel, delivery people and to conform to Lake County ordinances, each house shall have a readily visible number permanently attached to the front of the house.
@@ -499,6 +509,8 @@ Replacement of garage doors shall be painted to match the home's approved color 
    - Any Lot owner who wishes to modify and change the landscaping installed by the builder of the house on his Lot, to a Xeriscape or low water-usage design must first obtain approval from the ARC. The Alteration Application requesting this approval must be accompanied by a landscape design that is a certified Florida-friendly yard under the Florida Yards and Neighborhoods (FYN) program. Information about this program can be obtained through the Lake County website online.
 
 3. **Florida-Friendly Landscaping:** Florida-friendly landscaping is permitted in accordance with Florida Statute 720.3075.
+
+4. Artificial plants are not permitted in any exterior project or planting bed.
 
 #### Berms/Drainage Swales
 
@@ -602,9 +614,9 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 4. All lawns shall be sodded with St. Augustine, drought-tolerant grass, or other approved Florida Friendly grass and irrigated unless dictated otherwise by local municipality. When replacing the builder installed St. Augustine sod with another type of grass, ARC approval is required.
 
-5. Plant beds and trees will be mulched with mulch or rock with ARC approval. It is suggested that rigid landscape edging be used to keep materials in plant beds.
+5. Plant beds and trees shall be mulched with mulch or gravel/rock. Gravel or rock used in beds may be white, gray, black, or tan. Rigid landscape edging is suggested to keep materials in plant beds.
 
-6. Artificial turf requires ARC approval prior to installation. Approval will consider aesthetic impact, placement, and drainage effects.
+6. Artificial turf requires ARC approval prior to installation and must comply with City of Minneola permitting and zoning requirements.
 
 ### Lighting
 
@@ -623,6 +635,12 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 7. No lighting shall be permitted that constitutes a nuisance or hazard to any owner or neighboring resident.
 
 8. Post mount light fixtures shall be permitted in the rear of the house and not visible from the street in front of the house.
+
+9. Permanent exterior lighting, including recessed or eave-mounted accent lighting, requires ARC approval and shall be installed under the eaves or soffit so as not to be visible from the street.
+
+10. Lighting shall be steady and non-flashing; strobing or high-intensity color-changing effects are not permitted.
+
+11. No voice, music, or other audio may play from exterior lighting or its controller.
 
 ### Lightning Rods and Brushes
 

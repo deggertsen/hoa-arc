@@ -1,7 +1,7 @@
 # ARC Guidelines Changes Overview
-## Comparing September 2020 (Original) to July 2026 (Current)
+## Comparing September 2020 (Original) to September 2026 (Current)
 
-This document provides an overview of all changes made to the Reserve at Minneola Architectural Guidelines from the original adoption (September 17, 2020) through the latest revision (July 2026).
+This document provides an overview of all changes made to the Reserve at Minneola Architectural Guidelines from the original adoption (September 17, 2020) through the latest revision (September 2026).
 
 ---
 
@@ -279,3 +279,40 @@ The following work is tracked separately and is not part of this sync:
 ---
 
 *Document updated: September 2026*
+
+---
+
+## September 2026 Corrections
+
+The following changes respond to a September 2026 board-member draft ("ARC final corrections"). Several items in the draft had already been reviewed and declined in August 2026 (see "Cut (Not Adopted)" above); those were declined again. Each change was reviewed via a structured align process between David and Celeste.
+
+### New Additions
+
+1. **Alteration Application Process (5):** Added ARC inspection of completed work and a thirty (30) day correction requirement for nonconforming work. The draft's truncated "Inspection of Work" text was folded into the existing Project Completion Letter item rather than added as a new section.
+2. **Access to Common Areas (7):** Added exterior work-hours limit - Monday through Saturday, 7:00 a.m. to dusk; no Sunday or federal-holiday work except emergency repairs; applies to owners and contractors. (An earlier weekday-only draft was loosened to include Saturday, to match customary Florida practice rather than out-restrict the City.)
+3. **Garbage and Trash (5-6):** Added requirement that trash and recycling containers be screened from view from the street (except when at the curb for collection) and returned to storage within twenty-four (24) hours after collection, with a cross-reference to the acceptable-screening items; plus a prohibition on burning trash or other waste materials. (An earlier absolute "kept out of sight from the street" draft was scoped to avoid conflict with collection day.)
+4. **Holiday Decorations (6):** Cross-reference clarifying that permanently installed exterior lighting is governed by the Lighting guidelines.
+5. **Landscaping (4):** Added prohibition on artificial plants in any exterior project or planting bed.
+6. **Lighting (9-11):** Consolidated the draft's permanent outdoor lighting items into the existing Lighting section rather than adding a new subsection. Permanent exterior (recessed/eave) lighting requires ARC approval and must be installed under the eaves or soffit, not visible from the street; lighting shall be steady and non-flashing; and no voice, music, or other audio may play from exterior lighting or its controller. Redundant draft items (nuisance, repair timeline) were dropped - already covered by Lighting item 7 and the Exterior Maintenance section.
+7. **Exterior Painting (7):** Defined "no mixing" - a single approved paint scheme per home; colors from different approved schemes shall not be combined.
+8. **Lawns (6):** Consolidated the artificial turf rule - ARC approval plus compliance with City of Minneola permitting and zoning requirements.
+
+### Modified
+
+1. **Encroachment and Plantings (3):** Now permits three (3) potted live plants (or four (4) live plants planted in the bed) and two (2) decorative ornaments in front of the home; ornaments capped at twenty-four inches (24") and large statues prohibited. Replaced the prior prohibition on decorative pots and lawn ornaments in front. Landscape planters on the non-garage side now expressly require ARC approval.
+2. **Lawns (5):** Mulch/rock language clarified; gravel/rock color may now be white, gray, black, or tan, and the prior "with ARC approval" wording was removed.
+
+### Declined (Repeat of August 2026 Cuts)
+
+1. **Nuisance animals / dog-section line:** Declined again. Animal nuisance is a City/county jurisdiction matter, not architectural. Lake County Animal Control (Sheriff's Animal Enforcement) and Minneola code enforcement handle it.
+2. **Concrete sidewalk ban:** Declined again. Concrete remains an approved sidewalk material (sidewalks shall be concrete or pavers to match the driveway). Banning concrete while permitting stepping stones was contrary to existing standards and risks issues on driveway/entryway replacement.
+3. **Artificial turf - City approval:** The draft's blanket "requires Minneola Planning and Zoning approval" was not adopted as an HOA-imposed precondition (the City does not grant that approval). Rewritten to require ARC approval plus compliance with City permitting/zoning. Limits on the Association's authority under Florida law remain covered by the Introduction's statute-prevalence clause.
+
+### Not Applied
+
+- The draft's "Inspection of Work" text was truncated (only subsection (a) provided) and cited "Article V," which does not exist in these Guidelines. Its content was folded into the existing Project Completion Letter item.
+
+### Open Items
+
+- Work hours use "dusk" as the end time; revisit if the board prefers a fixed clock time.
+- Confirm whether the City of Minneola requires a permit for front-yard artificial turf so the application can note it.
