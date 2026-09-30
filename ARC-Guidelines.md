@@ -312,8 +312,6 @@ When replacing an existing item with one of identical style, material, and color
 
 2. Residents shall not put trees, bushes, plantings, bird baths, lawn ornaments, planters, bird feeders, flower pots, picnic tables, furniture, fences, walks, hedge enclosures and other types of groupings on common grounds or other Association property.
 
-3. A maximum of three (3) potted live plants, or four (4) live plants planted in the bed, and two (2) decorative ornaments are permitted in front of the house or in the rear of a home that is not screened with a fence or other approved screening such as landscaping. Ornaments shall not exceed twenty-four (24) inches in height; large statues are not permitted. Landscape planters with Florida-friendly landscaping are permitted on the non-garage side of the house and require ARC approval.
-
 ### Exterior Painting and Approved Color Schemes
 
 1. Homeowners changing paint colors must provide an approved paint scheme to the ARC prior to painting. Homeowners repainting with the same colors may either submit for approval their existing paint scheme or photographs of color swatches held against the matching surfaces of their home.
@@ -511,6 +509,8 @@ Replacement of garage doors shall be painted to match the home's approved color 
 3. **Florida-Friendly Landscaping:** Florida-friendly landscaping is permitted in accordance with Florida Statute 720.3075.
 
 4. Artificial plants are not permitted in any exterior project or planting bed.
+
+5. A maximum of three (3) potted live plants, or four (4) live plants planted in the bed, and two (2) decorative ornaments are permitted in front of the house or in the rear of a home that is not screened with a fence or other approved screening such as landscaping. Ornaments shall not exceed twenty-four (24) inches in height; large statues are not permitted. Landscape planters with Florida-friendly landscaping are permitted on the non-garage side of the house and require ARC approval.
 
 #### Berms/Drainage Swales
 
