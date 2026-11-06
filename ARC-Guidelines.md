@@ -102,7 +102,7 @@ The ARC has the right to modify, revise, add, delete or make any changes to thes
 1. An ARC review application may be obtained from the community manager.
 2. A separate alteration application should be submitted for each exterior modification.
 3. Incomplete applications will be "rejected" and not be considered until resubmitted with all the necessary information for the ARC to make a decision.
-4. Pursuant to Article V of the Declaration, the ARC shall have thirty (30) days after receipt of a properly completed Alteration Application to approve or reject any such application. If the application is not approved or rejected within that thirty (30) day period, it shall be deemed approved. A denial shall be in writing and shall state the specific rule or covenant relied on and the specific part of the proposed improvement that does not conform to it. Failure to act within thirty (30) days is not a ground for denial. (Florida Statute 720.3035(4)(a).)
+4. Approval or denial follows Article V of the Declaration. A denial shall be in writing and shall state the specific rule or covenant relied on and the specific part of the proposed improvement that does not conform to it. (Florida Statute 720.3035(4)(a).)
 5. Upon project completion, the homeowner shall submit a signed Project Completion Letter to the ARC confirming the work was completed in accordance with the approved plans and specifications. The ARC may inspect the completed work, and any nonconforming work shall be corrected within thirty (30) days of written notice from the ARC.
 
 Each application must include the documentation specified for that alteration type in the table below. **Submitting incomplete documentation will result in rejection of the application.**
@@ -330,7 +330,7 @@ When replacing an existing item with one of identical style, material, and color
 
 ### Fencing
 
-No fence shall be installed without ARC approval. The ARC has up to 30 days to act on an application. If it does not act in that time, the application is deemed approved under the Alteration Application Process. Plan the project around that review period.
+No fence shall be installed without ARC approval. The review period follows Article V of the Declaration and the Alteration Application Process. Plan the project around that review period.
 
 #### Fence Setback Requirements
 
