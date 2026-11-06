@@ -2,7 +2,7 @@
 # ARCHITECTURAL GUIDELINES STANDARDS & CRITERIA
 
 **Adopted:** September 17, 2020  
-**Revision Date:** September 2026
+**Revision Date:** November 2026
 
 ---
 
@@ -102,7 +102,7 @@ The ARC has the right to modify, revise, add, delete or make any changes to thes
 1. An ARC review application may be obtained from the community manager.
 2. A separate alteration application should be submitted for each exterior modification.
 3. Incomplete applications will be "rejected" and not be considered until resubmitted with all the necessary information for the ARC to make a decision.
-4. Pursuant to the Governing Documents, the ARC shall have thirty (30) days after receipt of a properly completed Alteration Application to approve or reject any such application, and if not approved within such thirty (30) day period, said application shall be deemed rejected.
+4. Pursuant to Article V of the Declaration, the ARC shall have thirty (30) days after receipt of a properly completed Alteration Application to approve or reject any such application. If the application is not approved or rejected within that thirty (30) day period, it shall be deemed approved. A denial shall be in writing and shall state the specific rule or covenant relied on and the specific part of the proposed improvement that does not conform to it. Failure to act within thirty (30) days is not a ground for denial. (Florida Statute 720.3035(4)(a).)
 5. Upon project completion, the homeowner shall submit a signed Project Completion Letter to the ARC confirming the work was completed in accordance with the approved plans and specifications. The ARC may inspect the completed work, and any nonconforming work shall be corrected within thirty (30) days of written notice from the ARC.
 
 Each application must include the documentation specified for that alteration type in the table below. **Submitting incomplete documentation will result in rejection of the application.**
@@ -161,7 +161,7 @@ Each application must include the documentation specified for that alteration ty
 When replacing an existing item with one of identical style, material, and color (e.g., same shingle color, same fence style), submit the following:
 1. Completed Alteration Application describing the replacement
 2. Photo of the existing item being replaced
-3. Confirmation that the replacement matches the original in style, material, and color
+3. Confirmation that the replacement matches the original identically in style, material, and color
 
 **Notes:**
 - For alterations not listed above, contact the Community Manager to determine required documentation.
@@ -173,7 +173,7 @@ When replacing an existing item with one of identical style, material, and color
 
 1. All exterior changes and modifications shall be completed in a manner so that they do not materially damage the common areas of the Association or individual Lots. Nor shall they in any way impair the integrity of the improvements on the property subject to maintenance by the Association.
 
-2. No homeowner shall permit their contractor to access or otherwise cross the common areas, or another person's Lot without receiving written permission in advance from the Board or the Community Manager. In the case of accessing another person's Lot, permission shall also be obtained from the Lot Owner.
+2. No homeowner shall permit their contractor to access or otherwise cross the common areas, or another person's Lot without receiving written permission in advance from the Board or the Community Manager. In the case of accessing another person's Lot, written advance permission shall also be obtained from the Lot Owner.
 
 3. Other than the record titleholder of the Lot, any contractor or installer who will cross the common areas to access the construction site, shall provide the Association with an insurance certificate listing the Association as a named insured prior to commencing work. Insurance shall meet the following minimum limits: Contractor's General Liability including completed operations: statutory minimum amount. Workers Compensation: statutory minimum amounts. The Board may establish these amounts.
 
@@ -181,11 +181,11 @@ When replacing an existing item with one of identical style, material, and color
 
 5. Owners are responsible for all cleanup of any improvement project. All debris, sod, soil, construction trash etc. shall be removed from the lot and the community within fourteen (14) days of the completion of the project.
 
-6. Homeowners are responsible for the acts of their employees, subcontractors and any other persons or parties involved in construction or alteration of the home site. The responsibilities include but are not limited to the following:
+6. Homeowners are responsible for the acts of their vendors and each vendor's employees, subcontractors and any other persons or parties involved in construction or alteration of the home site. The responsibilities include but are not limited to the following:
    a. Ensuring that the construction site, community properties and roadways are kept clean and free of all debris and waste materials, and that stockpiles of unused materials are kept in a neat and orderly fashion.
    b. Prohibiting the consumption of alcoholic beverages, illegal drugs or other intoxicants that could hamper the safety or well-being of others on the site, and ensuring compliance with all applicable City of Minneola noise ordinances.
 
-7. Exterior construction, repair, and landscaping activity is permitted Monday through Saturday, 7:00 a.m. to dusk, and is not permitted on Sundays or federal holidays except for emergency repairs. This applies to work performed by the owner as well as by contractors and installers, and all work shall comply with applicable City of Minneola noise ordinances.
+7. Exterior construction, repair, and landscaping activity is prohibited from dusk to 7:00 a.m., Monday through Saturday, and is not permitted on Sundays or federal holidays except for emergency repairs. This applies to work performed by the owner as well as by contractors and installers, and all work shall comply with applicable City of Minneola noise ordinances.
 
 ---
 
@@ -202,13 +202,13 @@ When replacing an existing item with one of identical style, material, and color
 
 2. No such equipment may interfere with the radio or television reception of other homes.
 
-3. The ARC requires that all such items be screened from view and that the installation of the antenna comply with all applicable safety restrictions, including any restrictions as to location and height of antenna as imposed by applicable fire codes, electrical codes, zoning codes, and building codes.
+3. The ARC requires that all such items be screened from view and that the installation comply with applicable safety restrictions, including location and height limits imposed by fire, electrical, zoning, and building codes. Screening and placement requirements do not apply to the extent they would prevent acceptable reception or otherwise impair installation, maintenance, or use of a covered antenna. (FCC OTARD rule, 47 CFR 1.4000.)
 
-4. All satellite dishes must be no larger than thirty-nine (39") inches in diameter.
+4. A satellite dish covered by the FCC OTARD rule may be up to one (1) meter in diameter. A dish larger than one (1) meter is not permitted.
 
-5. Satellite dishes that are ground mounted shall be installed at no greater distance than eight (8') feet from the house and preferably in a screened or fenced area.
+5. A ground-mounted satellite dish shall be installed no farther than eight (8') feet from the house, unless that limit would prevent acceptable reception. A screened or fenced location is preferred. It is not required.
 
-6. It is respectfully requested that satellite dishes NOT be placed on top of roofs. Notwithstanding, the ARC may grant a waiver if and only if the roof is the ONLY location that will provide proper reception. If you wish to apply for installation of a satellite dish on the roof, please include in your application a copy of the proposed location and a letter from the installer stating why the roof is the necessary location for installation. Any installation on roof tops should be clamped on and not screwed into the structure as it may automatically void any builder and/or roof warranties.
+6. A satellite dish shall not be placed on a roof unless the roof is the only location that will provide acceptable reception. An application for a roof installation shall include the proposed location and a written opinion from a qualified expert, not only the installer, stating why no other location will provide acceptable reception. Roof mounts shall be clamped on and not screwed into the structure, so as not to void any builder or roof warranty.
 
 7. Installation of satellite dish shall be in accordance with the current rules of the FCC, placement shall be as inconspicuous as possible. Wiring related to the installation should be aesthetically pleasing and secured in a professional manner.
 
@@ -330,7 +330,7 @@ When replacing an existing item with one of identical style, material, and color
 
 ### Fencing
 
-No fences are approved without the express, prior written approval of the Architectural Review Committee (ARC) of the Reserve at Minneola Homeowners Association, Inc. (HOA). Please note that the ARC has up to 30 days to act on an application. PLEASE PLAN YOUR PROJECT ACCORDINGLY.
+No fence shall be installed without ARC approval. The ARC has up to 30 days to act on an application. If it does not act in that time, the application is deemed approved under the Alteration Application Process. Plan the project around that review period.
 
 #### Fence Setback Requirements
 
@@ -752,7 +752,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 ### Screened Entry of Home
 
-1. Front entry into the home may be screened with bronze aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC.
+1. Front entry into the home may be screened with bronze or white aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC. The ARC shall not deny an application solely because the frame is white. (Declaration Article VI, Section 7(e).)
 
 ### Sidewalks and Stepping Stones
 

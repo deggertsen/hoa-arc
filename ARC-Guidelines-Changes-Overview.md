@@ -1,7 +1,7 @@
 # ARC Guidelines Changes Overview
 ## Comparing September 2020 (Original) to September 2026 (Current)
 
-This document provides an overview of all changes made to the Reserve at Minneola Architectural Guidelines from the original adoption (September 17, 2020) through the latest revision (September 2026).
+This document provides an overview of all changes made to the Reserve at Minneola Architectural Guidelines from the original adoption (September 17, 2020) through the latest revision (November 2026).
 
 ---
 
@@ -316,3 +316,46 @@ The following changes respond to a September 2026 board-member draft ("ARC final
 
 - Work hours use "dusk" as the end time; revisit if the board prefers a fixed clock time.
 - Confirm whether the City of Minneola requires a permit for front-yard artificial turf so the application can note it.
+
+---
+
+## November 2026 Attorney Review
+
+*Document updated: November 6, 2026*
+
+Alan Schwartzseid reviewed `ARC-Guidelines (September 2026).docx` on October 29, 2026 (41 comments, 6 insertions, 2 deletions). These edits apply his wording changes and the comments that stated a specific legal correction. Comments that only flagged missing Declaration authority, or that offered an optional new requirement, were not used to delete or add rules. The Google Doc was not edited.
+
+Article V (deemed approved) and Article VI, Section 7(e) (white aluminum) are cited as counsel stated them. The recorded declaration was not re-read in this pass.
+
+### Modified
+
+1. **Alteration Application Process (4).** Previous: an application not approved within thirty (30) days "shall be deemed rejected." New: under Article V of the Declaration, an application not approved or rejected within thirty (30) days is deemed approved. A denial must be in writing and must state the specific rule or covenant relied on and the specific part of the proposal that does not conform. Silence is not a ground for denial. (Florida Statute 720.3035(4)(a).) Impact: the guidelines no longer claim a deemed denial that counsel says the Declaration forbids, and a denial has to meet the statute's specificity requirement.
+2. **Fencing (introduction).** Previous: no fence without express prior written approval, with a warning to plan around the 30-day period. New: no fence without ARC approval, and if the ARC does not act within 30 days the application is deemed approved under the Alteration Application Process. Impact: the fence introduction no longer contradicts the deemed-approval rule.
+3. **Like-for-Like Replacements.** Previous: confirmation that the replacement "matches the original in style, material, and color." New: "matches the original identically in style, material, and color." Impact: the confirmation matches the heading, which was already limited to identical replacements.
+4. **Access to Common Areas (2).** Previous: permission from the other Lot Owner. New: written advance permission from the other Lot Owner. Impact: neighbor consent has to be written and obtained before access, same as Board or manager consent.
+5. **Access to Common Areas (6).** Previous: homeowners are responsible for the acts of "their employees, subcontractors." New: "their vendors and each vendor's employees, subcontractors." Impact: the homeowner's responsibility expressly covers the vendor, not only people the homeowner employs directly.
+6. **Access to Common Areas (7).** Previous: work "is permitted Monday through Saturday, 7:00 a.m. to dusk," and is not permitted on Sundays or federal holidays except emergency repairs. New: work "is prohibited from dusk to 7:00 a.m., Monday through Saturday," with the same Sunday, holiday, and emergency exceptions. Impact: the same hours, stated as a prohibition, which is what counsel marked as the Board's intent. Not stricter than the September rule, and Saturday remains allowed.
+7. **Antenna and Satellite Dishes (3).** Previous: the ARC requires screening from view and compliance with safety codes. New: those screening and placement requirements do not apply to the extent they would prevent acceptable reception or otherwise impair installation, maintenance, or use. (47 CFR 1.4000.) Impact: the ARC cannot use screening or placement to block a working dish.
+8. **Antenna and Satellite Dishes (4).** Previous: dishes "no larger than thirty-nine (39") inches in diameter." New: a dish covered by the OTARD rule may be up to one (1) meter in diameter; larger dishes are not permitted. Impact: the cap matches the federal size instead of a 39-inch limit that would exclude a lawful dish just over 39 inches.
+9. **Antenna and Satellite Dishes (5).** Previous: ground-mounted dishes no farther than eight (8') feet from the house and "preferably" in a screened or fenced area. New: the eight-foot limit applies unless it would prevent acceptable reception. A screened or fenced location is preferred and is not required. Impact: "preferably" is no longer written as if it were a condition of approval.
+10. **Antenna and Satellite Dishes (6).** Previous: it is "respectfully requested" that dishes not go on roofs, with a waiver only if the roof is the only location for reception, supported by a letter from the installer. New: a roof installation is not allowed unless the roof is the only location that will provide acceptable reception, and the application needs a written opinion from a qualified expert, not only the installer. Roof mounts stay clamped, not screwed in. Impact: the roof rule is a requirement with one exception, and the installer is no longer treated as the expert.
+11. **Screened Entry of Home (1).** Previous: bronze aluminum framing only. New: bronze or white aluminum framing. The ARC shall not deny an application solely because the frame is white. (Declaration Article VI, Section 7(e).) Impact: the guideline no longer prohibits a frame color counsel says the Declaration allows.
+
+### Not Applied
+
+Counsel's "OK" comments (air conditioners, canopies, doors, fencing authority, flags, trash screening, holiday lights, landscaping authority, outbuildings heading, play structures, roofs, pools) needed no wording change.
+
+These comments were not turned into guideline text:
+
+1. **Self-help for architectural work (comment on the completion-inspection sentence).** Counsel said the Board could mention the right to correct work under Article IV, Section 12, and also noted the preference not to use self-help for architectural modifications. Not added.
+2. **Contractor insurance (Access to Common Areas (3)).** Counsel said Florida Statute 720.3075(1)(e) limits requiring insurance for a vendor to enter the community, not insurance to perform work, and that the current criterion is not an issue. Left as written.
+3. **Recorded maintenance agreement.** Counsel suggested, on the satellite roof-warranty phrase and again on solar, that an owner who modifies an Association-maintained area sign a recorded agreement taking on the extra maintenance cost as an assessment and paying to prepare and record it. No clause was drafted, and the comment was not anchored to a section that already states that requirement. Not added.
+4. **Florida-friendly certification.** Counsel said the Board might require an arborist or licensed landscape architect to certify that landscaping is Florida-friendly. Optional. The existing Florida Yards and Neighborhoods requirement for a xeriscape conversion was left in place.
+5. **Sections counsel marked as not authorized by the Declaration.** Not deleted. Counsel's note is that criteria need Declaration authority, and that the office has a catchall amendment if the Board wants one. Removing carriage lights, decks, dog houses, driveways, garage restrictions, gas tanks, non-holiday lighting, temporary structures, water softeners, or window rules would be a policy cut, not a wording fix. Left for the Board.
+
+### Open Items
+
+- Confirm Article V of the recorded Declaration actually deems a late application approved, and that Article VI, Section 7(e) authorizes white aluminum, before the Board adopts this revision. Those two citations are counsel's, and the recorded instrument was not re-read here.
+- Decide whether to pursue counsel's catchall Declaration amendment, or to narrow the sections he marked as unauthorized.
+- Decide whether to add the recorded maintenance-cost agreement he suggested for modifications on Association-maintained areas.
+- Work hours still use "dusk." This revision only restates the September hours as a prohibition.
