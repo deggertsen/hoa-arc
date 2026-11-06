@@ -752,7 +752,7 @@ Permitted styles are poured in place stamped concrete, stone look, Keystone bloc
 
 ### Screened Entry of Home
 
-1. Front entry into the home may be screened with bronze or white aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC. The ARC shall not deny an application solely because the frame is white. (Declaration Article VI, Section 7(e).)
+1. Front entry into the home may be screened with bronze or white aluminum framing and charcoal screen given it is aesthetically pleasing, contingent approval from the ARC. See Declaration Article VI, Section 7(e).
 
 ### Sidewalks and Stepping Stones
 
